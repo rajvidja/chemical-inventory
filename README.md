@@ -34,9 +34,19 @@ Other scripts:
 - Formula, molecular weight and IUPAC name come from PubChem only when the CID's synonyms contain the CAS number *and* the name matches. Hazard data is never inferred and is only shown when entered with a source.
 - Classification uses a curated CAS → reagent-role table plus RDKit functional-group detection (`scripts/classify.py`). Anything uncertain is filed under **Unclassified**.
 
+## Static website
+
+`npm run build:static` builds a version that needs no server: the same API routes and PostgreSQL schema run inside the browser (PGlite in IndexedDB). The build also writes `dist/chemstock-seed.tar.gz`, a ready-made database created from `data/Chemical Inventory - Merged_updated.xlsx`, which each browser loads on its first visit. Host `dist/` on any static host with a fallback of all paths to `index.html`.
+
+- Edits are saved in that browser only; other people and devices start from the spreadsheet. Use **Export** to keep a copy.
+- Clearing the site's data in the browser resets it to the spreadsheet.
+- After the first visit the site works offline.
+
 ## Deploy on Render
 
-`render.yaml` describes a Node **Web Service** (not a Static Site, which cannot run the API). In Render choose **New → Blueprint**, pick this repository and apply. Manual setup uses build command `npm install --include=dev && npm run build` and start command `npm start`; the server reads `PORT` and serves `dist/` itself. On first start the database is built from `data/Chemical Inventory - Merged_updated.xlsx`. Without a persistent disk (free plan) the database resets on every deploy or restart; with a disk, set `CHEMSTOCK_DATA_DIR` to a folder on it (see the comments in `render.yaml`).
+`render.yaml` sets up the **static website** above: **New → Blueprint**, pick this repository, apply. Manual setup: **New → Static Site**, build command `npm install --include=dev && npm run build:static`, publish directory `dist`, and a rewrite rule `/*` → `/index.html`.
+
+To run the shared server version instead (one database for everyone), create a **Web Service** with build command `npm install --include=dev && npm run build` and start command `npm start`. It needs a persistent disk with `CHEMSTOCK_DATA_DIR` pointing at it, or the database resets on every deploy.
 
 ## Stack
 

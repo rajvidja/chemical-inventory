@@ -7,6 +7,7 @@
     "dev:api": "tsx watch --clear-screen=false server/index.ts",
     "dev:web": "vite",
     "build": "vite build",
+    "build:static": "vite build --mode static && tsx scripts/build_static_seed.ts",
     "start": "NODE_ENV=production tsx server/index.ts",
     "typecheck": "tsc --noEmit -p .",
     "db:reset": "tsx server/reset.ts",

@@ -1,4 +1,3 @@
-import { randomUUID } from "node:crypto";
 import { Hono } from "hono";
 import * as XLSX from "xlsx";
 import { z } from "zod";
@@ -42,7 +41,7 @@ export const importsApi = new Hono()
     const digits = parsed.map((p) => (p.cas.cas ? casDigits(p.cas.cas) : "")).filter(Boolean);
     const existing = await findCasMatches(db, [...new Set(digits)]);
     const seenInFile = new Map<string, number>();
-    const token = randomUUID();
+    const token = crypto.randomUUID();
     previews.set(token, { fileName: file.name, rows: parsed, createdAt: Date.now() });
 
     const rows = parsed.map((p) => {

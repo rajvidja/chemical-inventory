@@ -8,6 +8,8 @@ import { ConfirmProvider } from "@/components/ui/overlays";
 import { ChemActionsProvider } from "@/components/chem/ChemActions";
 import { App } from "./App";
 
+if (import.meta.env.MODE === "static") (await import("./static/install")).installStaticApi();
+
 const queryClient = new QueryClient({
   defaultOptions: {
     queries: { staleTime: 15_000, refetchOnWindowFocus: false, retry: 1 },

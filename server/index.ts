@@ -4,10 +4,7 @@ import { serve } from "@hono/node-server";
 import { serveStatic } from "@hono/node-server/serve-static";
 import { Hono } from "hono";
 import { compress } from "hono/compress";
-import { HTTPException } from "hono/http-exception";
-import { catalogApi } from "./api/catalog";
-import { chemicalsApi } from "./api/chemicals";
-import { importsApi } from "./api/imports";
+import { createApi } from "./app";
 import { closeDb, getDb, ROOT } from "./db";
 import { seedIfEmpty } from "./seed";
 
@@ -20,18 +17,7 @@ await db.transaction((tx) => seedIfEmpty(tx));
 const app = new Hono();
 app.use("*", compress());
 
-const api = new Hono()
-  .get("/health", (c) => c.json({ ok: true }))
-  .route("/", chemicalsApi)
-  .route("/", catalogApi)
-  .route("/", importsApi);
-
-api.onError((err, c) => {
-  if (err instanceof HTTPException) return err.getResponse();
-  console.error(err);
-  return c.json({ error: "Something went wrong on the server. Your data was not changed." }, 500);
-});
-app.route("/api", api);
+app.route("/api", createApi());
 
 const dist = path.join(ROOT, "dist");
 if (isProd && existsSync(dist)) {

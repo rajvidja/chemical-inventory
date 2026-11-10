@@ -1,7 +1,5 @@
-import { readFileSync, existsSync } from "node:fs";
-import path from "node:path";
 import { compactName } from "../shared/normalize";
-import { ROOT } from "./db";
+import { loadDataJson } from "./dataFiles";
 
 export interface PubchemRecord {
   cid: number;
@@ -24,13 +22,8 @@ export interface ClassificationRecord {
   mixture: boolean;
 }
 
-function loadJson<T>(file: string): Record<string, T> {
-  const p = path.join(ROOT, "data", file);
-  return existsSync(p) ? JSON.parse(readFileSync(p, "utf8")) : {};
-}
-
-export const pubchem = loadJson<PubchemRecord | null>("pubchem.json");
-export const classification = loadJson<ClassificationRecord>("classification.json");
+export const pubchem = loadDataJson<PubchemRecord | null>("pubchem.json");
+export const classification = loadDataJson<ClassificationRecord>("classification.json");
 
 function trigrams(s: string) {
   const padded = `  ${s} `;

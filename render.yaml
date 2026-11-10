@@ -1,20 +1,14 @@
 services:
+  # Static site: the database and API run inside the visitor's browser (see README, "Static website").
   - type: web
     name: chemical-inventory
-    runtime: node
-    plan: free
-    buildCommand: npm install --include=dev && npm run build
-    startCommand: npm start
-    healthCheckPath: /api/meta
+    runtime: static
+    buildCommand: npm install --include=dev && npm run build:static
+    staticPublishPath: ./dist
     envVars:
       - key: NODE_VERSION
         value: "22"
-      # The free plan has no persistent disk: the database is rebuilt from data/*.xlsx on every
-      # deploy or restart, so edits made in the app are lost. To keep them, switch to a paid plan
-      # and uncomment this variable and the disk block below.
-      # - key: CHEMSTOCK_DATA_DIR
-      #   value: /var/data/pgdata
-    # disk:
-    #   name: chemstock-data
-    #   mountPath: /var/data
-    #   sizeGB: 1
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html
