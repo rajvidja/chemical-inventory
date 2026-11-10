@@ -1,0 +1,128 @@
+[
+  {
+    "slug": "organic-solvents", "name": "Organic Solvents", "icon": "droplets", "color": "#167D83",
+    "description": "Solvents for reactions, work-up and purification",
+    "children": [
+      { "slug": "polar-protic-solvents", "name": "Polar protic solvents" },
+      { "slug": "polar-aprotic-solvents", "name": "Polar aprotic solvents" },
+      { "slug": "non-polar-solvents", "name": "Non-polar solvents" },
+      { "slug": "halogenated-solvents", "name": "Halogenated solvents" }
+    ]
+  },
+  {
+    "slug": "acids", "name": "Acids", "icon": "test-tube", "color": "#C0563B",
+    "description": "Organic and inorganic acids",
+    "children": [
+      { "slug": "organic-acids", "name": "Organic acids" },
+      { "slug": "inorganic-acids", "name": "Inorganic acids" },
+      { "slug": "carboxylic-acids", "name": "Carboxylic acids" },
+      { "slug": "sulfonic-acids", "name": "Sulfonic acids" }
+    ]
+  },
+  {
+    "slug": "bases", "name": "Bases", "icon": "test-tubes", "color": "#3B6FC0",
+    "description": "Organic and inorganic bases",
+    "children": [
+      { "slug": "organic-bases", "name": "Organic bases" },
+      { "slug": "inorganic-bases", "name": "Inorganic bases" },
+      { "slug": "base-amines", "name": "Amines" },
+      { "slug": "alkoxides", "name": "Alkoxides" }
+    ]
+  },
+  {
+    "slug": "organic-reagents", "name": "Organic Reagents", "icon": "flask-conical", "color": "#7A4FB5",
+    "description": "Reagents that transform functional groups",
+    "children": [
+      { "slug": "alkylating-agents", "name": "Alkylating agents" },
+      { "slug": "acylating-agents", "name": "Acylating agents" },
+      { "slug": "sulfonylating-agents", "name": "Sulfonylating agents" },
+      { "slug": "halogenating-agents", "name": "Halogenating agents" },
+      { "slug": "oxidizing-agents", "name": "Oxidizing agents" },
+      { "slug": "reducing-agents", "name": "Reducing agents" },
+      { "slug": "organometallic-reagents", "name": "Organometallic reagents" }
+    ]
+  },
+  {
+    "slug": "catalysts", "name": "Catalysts", "icon": "zap", "color": "#D99A36",
+    "description": "Metal catalysts, ligands and organocatalysts",
+    "children": [
+      { "slug": "metal-catalysts", "name": "Metal catalysts" },
+      { "slug": "ligands", "name": "Ligands" },
+      { "slug": "organocatalysts", "name": "Organocatalysts" },
+      { "slug": "phase-transfer-catalysts", "name": "Phase-transfer catalysts" }
+    ]
+  },
+  {
+    "slug": "coupling-reagents", "name": "Coupling Reagents", "icon": "link-2", "color": "#1F8F6A",
+    "description": "Amide bond formation and cross-coupling",
+    "children": [
+      { "slug": "amide-coupling-reagents", "name": "Amide coupling reagents" },
+      { "slug": "cross-coupling-reagents", "name": "Cross-coupling reagents" }
+    ]
+  },
+  {
+    "slug": "protecting-group-reagents", "name": "Protecting Group Reagents", "icon": "shield-check", "color": "#4A6A85",
+    "description": "Protection and deprotection chemistry",
+    "children": [
+      { "slug": "boc-protection", "name": "Boc protection" },
+      { "slug": "cbz-protection", "name": "Cbz protection" },
+      { "slug": "fmoc-protection", "name": "Fmoc protection" },
+      { "slug": "deprotection-reagents", "name": "Deprotection reagents" }
+    ]
+  },
+  {
+    "slug": "inorganic-chemicals", "name": "Inorganic Chemicals", "icon": "atom", "color": "#5E7A8C",
+    "description": "Salts, oxides and other inorganic compounds",
+    "children": [
+      { "slug": "metal-salts", "name": "Metal salts" },
+      { "slug": "non-metal-salts", "name": "Non-metal salts" },
+      { "slug": "metal-oxides", "name": "Metal oxides" },
+      { "slug": "inorganic-compounds", "name": "Inorganic compounds" }
+    ]
+  },
+  {
+    "slug": "chromatography-materials", "name": "Chromatography Materials", "icon": "layers", "color": "#2C8AA8",
+    "description": "Silica, TLC and stationary phases",
+    "children": [
+      { "slug": "silica-gel", "name": "Silica gel" },
+      { "slug": "tlc-plates", "name": "TLC plates" },
+      { "slug": "adsorbents", "name": "Adsorbents" },
+      { "slug": "stationary-phases", "name": "Stationary phases" }
+    ]
+  },
+  {
+    "slug": "building-blocks", "name": "Building Blocks & Intermediates", "icon": "hexagon", "color": "#173B57",
+    "description": "Substrates and intermediates for synthesis",
+    "children": [
+      { "slug": "aromatic-compounds", "name": "Aromatic compounds" },
+      { "slug": "heterocyclic-compounds", "name": "Heterocyclic compounds" },
+      { "slug": "bb-amines", "name": "Amines" },
+      { "slug": "carboxylic-acid-derivatives", "name": "Carboxylic acid derivatives" },
+      { "slug": "halogenated-compounds", "name": "Halogenated compounds" },
+      { "slug": "carbonyl-compounds", "name": "Aldehydes & ketones" },
+      { "slug": "alkynes", "name": "Alkynes" },
+      { "slug": "isocyanates-isothiocyanates", "name": "Isocyanates & isothiocyanates" }
+    ]
+  },
+  {
+    "slug": "analytical-reagents", "name": "Analytical Reagents", "icon": "microscope", "color": "#9B5C8F",
+    "description": "Indicators, stains and standards",
+    "children": [
+      { "slug": "indicators", "name": "Indicators & stains" },
+      { "slug": "reference-standards", "name": "Reference standards" },
+      { "slug": "analytical-solvents", "name": "Analytical solvents" }
+    ]
+  },
+  {
+    "slug": "other-lab-materials", "name": "Other Laboratory Materials", "icon": "package", "color": "#788795",
+    "description": "Drying agents and general lab materials",
+    "children": [
+      { "slug": "drying-agents", "name": "Drying agents" }
+    ]
+  },
+  {
+    "slug": "unclassified", "name": "Unclassified", "icon": "circle-help", "color": "#9AA6B0",
+    "description": "Awaiting manual classification review",
+    "children": []
+  }
+]

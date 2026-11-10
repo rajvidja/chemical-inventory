@@ -1,0 +1,8478 @@
+{
+ "100-00-5": {
+  "categories": [
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aryl halide",
+  "tags": [
+   "chlorinated",
+   "nitro"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "100-02-7": {
+  "categories": [
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic phenol",
+  "tags": [
+   "nitro",
+   "phenol"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "100-06-1": {
+  "categories": [
+   "carbonyl-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic ketone",
+  "tags": [
+   "ether",
+   "ketone"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "100-07-2": {
+  "categories": [
+   "carboxylic-acid-derivatives",
+   "halogenated-compounds",
+   "aromatic-compounds",
+   "acylating-agents"
+  ],
+  "chemical_class": "Aromatic acid chloride",
+  "tags": [
+   "acid chloride",
+   "chlorinated",
+   "ether"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "100-09-4": {
+  "categories": [
+   "aromatic-compounds",
+   "carboxylic-acids"
+  ],
+  "chemical_class": "Aromatic carboxylic acid",
+  "tags": [
+   "carboxylic acid",
+   "ether"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "100-10-7": {
+  "categories": [
+   "carbonyl-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aldehyde",
+  "tags": [
+   "aldehyde"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "100-11-8": {
+  "categories": [
+   "halogenated-compounds",
+   "aromatic-compounds",
+   "alkylating-agents"
+  ],
+  "chemical_class": "Aromatic benzylic halide",
+  "tags": [
+   "benzylic halide",
+   "brominated",
+   "nitro"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "100-19-6": {
+  "categories": [
+   "carbonyl-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic ketone",
+  "tags": [
+   "ketone",
+   "nitro"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "100-29-8": {
+  "categories": [
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic nitro compound",
+  "tags": [
+   "ether",
+   "nitro"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "100-39-0": {
+  "categories": [
+   "alkylating-agents",
+   "halogenated-compounds"
+  ],
+  "chemical_class": "Aromatic benzylic halide",
+  "tags": [
+   "benzylic halide",
+   "brominated"
+  ],
+  "synonyms": [
+   "BnBr"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "100-48-1": {
+  "categories": [
+   "heterocyclic-compounds",
+   "carboxylic-acid-derivatives"
+  ],
+  "chemical_class": "Heteroaromatic nitrile",
+  "tags": [
+   "heteroaromatic",
+   "nitrile"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "100-52-7": {
+  "categories": [
+   "carbonyl-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aldehyde",
+  "tags": [
+   "aldehyde"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "100-83-4": {
+  "categories": [
+   "carbonyl-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aldehyde",
+  "tags": [
+   "aldehyde",
+   "phenol"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "100-97-0": {
+  "categories": [
+   "organic-reagents",
+   "heterocyclic-compounds"
+  ],
+  "chemical_class": "Heterocyclic amine",
+  "tags": [
+   "formylation",
+   "tertiary amine"
+  ],
+  "synonyms": [
+   "HMTA",
+   "Hexamine",
+   "Methenamine"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "10025-69-1": {
+  "categories": [
+   "reducing-agents",
+   "metal-salts"
+  ],
+  "chemical_class": "Metal salt",
+  "tags": [
+   "reductant",
+   "hydrate"
+  ],
+  "synonyms": [
+   "SnCl2",
+   "SnCl2.2H2O",
+   "Stannous chloride"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "10025-77-1": {
+  "categories": [
+   "metal-salts",
+   "metal-catalysts"
+  ],
+  "chemical_class": "Metal salt",
+  "tags": [
+   "Lewis acid",
+   "hydrate"
+  ],
+  "synonyms": [
+   "FeCl3.6H2O"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "1003-29-8": {
+  "categories": [
+   "heterocyclic-compounds",
+   "carbonyl-compounds"
+  ],
+  "chemical_class": "Heteroaromatic aldehyde",
+  "tags": [
+   "aldehyde",
+   "heteroaromatic"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "10039-54-0": {
+  "categories": [
+   "non-metal-salts"
+  ],
+  "chemical_class": "Non-metal salt",
+  "tags": [],
+  "synonyms": [
+   "(NH2OH)2.H2SO4"
+  ],
+  "source": "structure",
+  "mixture": false
+ },
+ "1006-94-6": {
+  "categories": [
+   "heterocyclic-compounds"
+  ],
+  "chemical_class": "Heteroaromatic ether",
+  "tags": [
+   "ether",
+   "heteroaromatic"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "102-36-3": {
+  "categories": [
+   "isocyanates-isothiocyanates",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic isocyanate",
+  "tags": [
+   "chlorinated",
+   "isocyanate"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "102-51-2": {
+  "categories": [
+   "bb-amines",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aniline",
+  "tags": [
+   "aniline",
+   "ether"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "10217-52-4": {
+  "categories": [
+   "reducing-agents"
+  ],
+  "chemical_class": "Inorganic compound",
+  "tags": [
+   "hydrazine",
+   "hydrate"
+  ],
+  "synonyms": [
+   "N2H4.H2O"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "103-71-9": {
+  "categories": [
+   "isocyanates-isothiocyanates",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic isocyanate",
+  "tags": [
+   "isocyanate"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "103-72-0": {
+  "categories": [
+   "isocyanates-isothiocyanates",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic isothiocyanate",
+  "tags": [
+   "isothiocyanate"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "10361-37-2": {
+  "categories": [
+   "metal-salts"
+  ],
+  "chemical_class": "Metal salt",
+  "tags": [],
+  "synonyms": [
+   "BaCl2"
+  ],
+  "source": "structure",
+  "mixture": false
+ },
+ "104-81-4": {
+  "categories": [
+   "halogenated-compounds",
+   "aromatic-compounds",
+   "alkylating-agents"
+  ],
+  "chemical_class": "Aromatic benzylic halide",
+  "tags": [
+   "benzylic halide",
+   "brominated"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "104-82-5": {
+  "categories": [
+   "halogenated-compounds",
+   "aromatic-compounds",
+   "alkylating-agents"
+  ],
+  "chemical_class": "Aromatic benzylic halide",
+  "tags": [
+   "benzylic halide",
+   "chlorinated"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "104-83-6": {
+  "categories": [
+   "halogenated-compounds",
+   "aromatic-compounds",
+   "alkylating-agents"
+  ],
+  "chemical_class": "Aromatic benzylic halide",
+  "tags": [
+   "benzylic halide",
+   "chlorinated"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "104-87-0": {
+  "categories": [
+   "carbonyl-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aldehyde",
+  "tags": [
+   "aldehyde"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "104-88-1": {
+  "categories": [
+   "carbonyl-compounds",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aldehyde",
+  "tags": [
+   "aldehyde",
+   "chlorinated"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "104-94-9": {
+  "categories": [
+   "bb-amines",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aniline",
+  "tags": [
+   "aniline",
+   "ether"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "10443-65-9": {
+  "categories": [
+   "halogenated-compounds",
+   "carboxylic-acids"
+  ],
+  "chemical_class": "Aliphatic carboxylic acid",
+  "tags": [
+   "brominated",
+   "carboxylic acid"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "10450-60-9": {
+  "categories": [
+   "inorganic-acids",
+   "oxidizing-agents"
+  ],
+  "chemical_class": "Non-metal salt",
+  "tags": [
+   "acid",
+   "oxidant"
+  ],
+  "synonyms": [
+   "H5IO6",
+   "Periodic acid"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "105-30-2": {
+  "categories": [
+   "unclassified"
+  ],
+  "chemical_class": null,
+  "tags": [],
+  "synonyms": [],
+  "source": "unclassified",
+  "mixture": false
+ },
+ "105-36-2": {
+  "categories": [
+   "carboxylic-acid-derivatives",
+   "halogenated-compounds",
+   "alkylating-agents"
+  ],
+  "chemical_class": "Aliphatic ester",
+  "tags": [
+   "brominated",
+   "ester"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "105-53-2": {
+  "categories": [
+   "unclassified"
+  ],
+  "chemical_class": null,
+  "tags": [],
+  "synonyms": [],
+  "source": "unclassified",
+  "mixture": false
+ },
+ "105-53-3": {
+  "categories": [
+   "carboxylic-acid-derivatives"
+  ],
+  "chemical_class": "Aliphatic ester",
+  "tags": [
+   "ester"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "105-56-6": {
+  "categories": [
+   "carboxylic-acid-derivatives"
+  ],
+  "chemical_class": "Aliphatic ester",
+  "tags": [
+   "ester",
+   "nitrile"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "10599-70-9": {
+  "categories": [
+   "heterocyclic-compounds",
+   "carbonyl-compounds"
+  ],
+  "chemical_class": "Heteroaromatic ketone",
+  "tags": [
+   "heteroaromatic",
+   "ketone"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "106-40-1": {
+  "categories": [
+   "bb-amines",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aniline",
+  "tags": [
+   "aniline",
+   "brominated"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "106-41-2": {
+  "categories": [
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic phenol",
+  "tags": [
+   "brominated",
+   "phenol"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "106-44-5": {
+  "categories": [
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic phenol",
+  "tags": [
+   "phenol"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "106-47-8": {
+  "categories": [
+   "bb-amines",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aniline",
+  "tags": [
+   "aniline",
+   "chlorinated"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "106-48-9": {
+  "categories": [
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic phenol",
+  "tags": [
+   "chlorinated",
+   "phenol"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "106-49-0": {
+  "categories": [
+   "bb-amines",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aniline",
+  "tags": [
+   "aniline"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "106-51-4": {
+  "categories": [
+   "oxidizing-agents"
+  ],
+  "chemical_class": "Alicyclic ketone",
+  "tags": [
+   "quinone",
+   "ketone"
+  ],
+  "synonyms": [
+   "1,4-Benzoquinone",
+   "BQ"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "106-93-4": {
+  "categories": [
+   "alkylating-agents",
+   "halogenated-compounds"
+  ],
+  "chemical_class": "Aliphatic alkyl halide",
+  "tags": [
+   "brominated"
+  ],
+  "synonyms": [
+   "EDB",
+   "Ethylene dibromide"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "106-96-7": {
+  "categories": [
+   "alkylating-agents",
+   "alkynes"
+  ],
+  "chemical_class": "Aliphatic alkyne",
+  "tags": [
+   "brominated",
+   "alkyne",
+   "terminal alkyne"
+  ],
+  "synonyms": [
+   "3-Bromopropyne"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "107-11-9": {
+  "categories": [
+   "bb-amines"
+  ],
+  "chemical_class": "Aliphatic amine",
+  "tags": [
+   "primary amine"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "107-46-0": {
+  "categories": [
+   "non-polar-solvents"
+  ],
+  "chemical_class": "Aliphatic compound",
+  "tags": [
+   "solvent",
+   "silyl"
+  ],
+  "synonyms": [
+   "HMDSO",
+   "HMDS(O)"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "107-91-5": {
+  "categories": [
+   "carboxylic-acid-derivatives"
+  ],
+  "chemical_class": "Aliphatic amide",
+  "tags": [
+   "amide",
+   "nitrile"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "1072-83-9": {
+  "categories": [
+   "heterocyclic-compounds",
+   "carbonyl-compounds"
+  ],
+  "chemical_class": "Heteroaromatic ketone",
+  "tags": [
+   "heteroaromatic",
+   "ketone"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "1073-70-7": {
+  "categories": [
+   "bb-amines",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic hydrazine",
+  "tags": [
+   "aniline",
+   "chlorinated",
+   "hydrazine",
+   "hydrochloride salt"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "1074-82-4": {
+  "categories": [
+   "heterocyclic-compounds"
+  ],
+  "chemical_class": "Heterocyclic compound",
+  "tags": [],
+  "synonyms": [
+   "Gabriel reagent"
+  ],
+  "source": "structure",
+  "mixture": false
+ },
+ "1075-06-5": {
+  "categories": [
+   "carbonyl-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic ketone",
+  "tags": [
+   "alcohol",
+   "ketone"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "108-31-6": {
+  "categories": [
+   "acylating-agents",
+   "carboxylic-acid-derivatives"
+  ],
+  "chemical_class": "Heterocyclic anhydride",
+  "tags": [
+   "anhydride",
+   "ester"
+  ],
+  "synonyms": [],
+  "source": "curated",
+  "mixture": false
+ },
+ "108-42-9": {
+  "categories": [
+   "bb-amines",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aniline",
+  "tags": [
+   "aniline",
+   "chlorinated"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "108-43-0": {
+  "categories": [
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic phenol",
+  "tags": [
+   "chlorinated",
+   "phenol"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "108-46-3": {
+  "categories": [
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic phenol",
+  "tags": [
+   "phenol"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "108-86-1": {
+  "categories": [
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aryl halide",
+  "tags": [
+   "brominated"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "108-88-3": {
+  "categories": [
+   "non-polar-solvents"
+  ],
+  "chemical_class": "Aromatic hydrocarbon",
+  "tags": [
+   "solvent",
+   "hydrocarbon"
+  ],
+  "synonyms": [
+   "PhMe",
+   "Methylbenzene",
+   "Toluol"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "108-95-2": {
+  "categories": [
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic phenol",
+  "tags": [
+   "phenol"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "109-66-0": {
+  "categories": [
+   "non-polar-solvents"
+  ],
+  "chemical_class": "Aliphatic hydrocarbon",
+  "tags": [
+   "solvent",
+   "hydrocarbon"
+  ],
+  "synonyms": [
+   "n-Pentane"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "109-72-8": {
+  "categories": [
+   "organometallic-reagents",
+   "organic-bases"
+  ],
+  "chemical_class": "Aliphatic compound",
+  "tags": [
+   "organolithium",
+   "air sensitive"
+  ],
+  "synonyms": [
+   "n-BuLi",
+   "nBuLi",
+   "Butyllithium",
+   "BuLi"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "109-87-5": {
+  "categories": [
+   "non-polar-solvents"
+  ],
+  "chemical_class": "Aliphatic ether",
+  "tags": [
+   "solvent",
+   "ether"
+  ],
+  "synonyms": [
+   "Methylal",
+   "DMM"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "109-99-9": {
+  "categories": [
+   "polar-aprotic-solvents"
+  ],
+  "chemical_class": "Heterocyclic ether",
+  "tags": [
+   "solvent",
+   "ether"
+  ],
+  "synonyms": [
+   "THF"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "110-16-7": {
+  "categories": [
+   "carboxylic-acids"
+  ],
+  "chemical_class": "Aliphatic carboxylic acid",
+  "tags": [
+   "carboxylic acid"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "110-18-9": {
+  "categories": [
+   "organic-bases",
+   "ligands"
+  ],
+  "chemical_class": "Aliphatic amine",
+  "tags": [
+   "base",
+   "tertiary amine"
+  ],
+  "synonyms": [
+   "TMEDA",
+   "TEMED"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "110-85-0": {
+  "categories": [
+   "heterocyclic-compounds",
+   "bb-amines"
+  ],
+  "chemical_class": "Heterocyclic amine",
+  "tags": [
+   "secondary amine"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "110-86-1": {
+  "categories": [
+   "organic-bases",
+   "polar-aprotic-solvents",
+   "heterocyclic-compounds"
+  ],
+  "chemical_class": "Heteroaromatic compound",
+  "tags": [
+   "solvent",
+   "base",
+   "heteroaromatic"
+  ],
+  "synonyms": [
+   "Py"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "110-89-4": {
+  "categories": [
+   "organic-bases",
+   "heterocyclic-compounds"
+  ],
+  "chemical_class": "Heterocyclic amine",
+  "tags": [
+   "base",
+   "secondary amine"
+  ],
+  "synonyms": [],
+  "source": "curated",
+  "mixture": false
+ },
+ "111-49-9": {
+  "categories": [
+   "heterocyclic-compounds",
+   "bb-amines"
+  ],
+  "chemical_class": "Heterocyclic amine",
+  "tags": [
+   "secondary amine"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "1112-67-0": {
+  "categories": [
+   "phase-transfer-catalysts"
+  ],
+  "chemical_class": "Aliphatic compound",
+  "tags": [
+   "quaternary ammonium",
+   "hydrochloride salt"
+  ],
+  "synonyms": [
+   "TBAC",
+   "Bu4NCl"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "1122-58-3": {
+  "categories": [
+   "organocatalysts",
+   "organic-bases"
+  ],
+  "chemical_class": "Heteroaromatic compound",
+  "tags": [
+   "base",
+   "acylation catalyst",
+   "heteroaromatic"
+  ],
+  "synonyms": [
+   "DMAP",
+   "4-Dimethylaminopyridine"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "1122-62-9": {
+  "categories": [
+   "heterocyclic-compounds",
+   "carbonyl-compounds"
+  ],
+  "chemical_class": "Heteroaromatic ketone",
+  "tags": [
+   "heteroaromatic",
+   "ketone"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "1122-91-4": {
+  "categories": [
+   "carbonyl-compounds",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aldehyde",
+  "tags": [
+   "aldehyde",
+   "brominated"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "112926-00-8": {
+  "categories": [
+   "silica-gel"
+  ],
+  "chemical_class": null,
+  "tags": [
+   "chromatography"
+  ],
+  "synonyms": [
+   "SiO2",
+   "Silica"
+  ],
+  "source": "curated",
+  "mixture": true
+ },
+ "1131-62-0": {
+  "categories": [
+   "carbonyl-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic ketone",
+  "tags": [
+   "ether",
+   "ketone"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "1136-86-3": {
+  "categories": [
+   "carbonyl-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic ketone",
+  "tags": [
+   "ether",
+   "ketone"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "118-48-9": {
+  "categories": [
+   "heterocyclic-compounds"
+  ],
+  "chemical_class": "Heteroaromatic compound",
+  "tags": [
+   "heteroaromatic"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "118-79-6": {
+  "categories": [
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic phenol",
+  "tags": [
+   "brominated",
+   "phenol"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "118-93-4": {
+  "categories": [
+   "carbonyl-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic ketone",
+  "tags": [
+   "ketone",
+   "phenol"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "119-26-6": {
+  "categories": [
+   "indicators",
+   "analytical-reagents"
+  ],
+  "chemical_class": "Aromatic hydrazine",
+  "tags": [
+   "TLC stain",
+   "hydrazine",
+   "aniline",
+   "nitro"
+  ],
+  "synonyms": [
+   "DNPH",
+   "2,4-DNPH",
+   "Brady's reagent"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "119-61-9": {
+  "categories": [
+   "carbonyl-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic ketone",
+  "tags": [
+   "ketone"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "119-67-5": {
+  "categories": [
+   "carbonyl-compounds",
+   "aromatic-compounds",
+   "carboxylic-acids"
+  ],
+  "chemical_class": "Aromatic carboxylic acid",
+  "tags": [
+   "aldehyde",
+   "carboxylic acid"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "1191-15-7": {
+  "categories": [
+   "reducing-agents",
+   "organometallic-reagents"
+  ],
+  "chemical_class": "Aliphatic compound",
+  "tags": [
+   "hydride",
+   "air sensitive"
+  ],
+  "synonyms": [
+   "DIBAL",
+   "DIBAL-H",
+   "DIBALH"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "1192-62-7": {
+  "categories": [
+   "heterocyclic-compounds",
+   "carbonyl-compounds"
+  ],
+  "chemical_class": "Heteroaromatic ketone",
+  "tags": [
+   "heteroaromatic",
+   "ketone"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "1194-02-1": {
+  "categories": [
+   "carboxylic-acid-derivatives",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic nitrile",
+  "tags": [
+   "fluorinated",
+   "nitrile"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "1199-46-8": {
+  "categories": [
+   "bb-amines",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aniline",
+  "tags": [
+   "aniline",
+   "phenol"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "120-43-4": {
+  "categories": [
+   "heterocyclic-compounds",
+   "bb-amines"
+  ],
+  "chemical_class": "Heterocyclic amine",
+  "tags": [
+   "secondary amine"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "120-46-7": {
+  "categories": [
+   "carbonyl-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic ketone",
+  "tags": [
+   "ketone"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "120-66-1": {
+  "categories": [
+   "carboxylic-acid-derivatives",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic amide",
+  "tags": [
+   "amide"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "12054-85-2": {
+  "categories": [
+   "indicators",
+   "inorganic-compounds"
+  ],
+  "chemical_class": null,
+  "tags": [
+   "TLC stain"
+  ],
+  "synonyms": [
+   "AMT"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "121-33-5": {
+  "categories": [
+   "carbonyl-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aldehyde",
+  "tags": [
+   "aldehyde",
+   "ether",
+   "phenol"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "121-44-8": {
+  "categories": [
+   "organic-bases",
+   "base-amines"
+  ],
+  "chemical_class": "Aliphatic amine",
+  "tags": [
+   "base",
+   "tertiary amine"
+  ],
+  "synonyms": [
+   "TEA",
+   "Et3N",
+   "NEt3"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "121-66-4": {
+  "categories": [
+   "heterocyclic-compounds",
+   "bb-amines"
+  ],
+  "chemical_class": "Heteroaromatic aniline",
+  "tags": [
+   "aniline",
+   "heteroaromatic",
+   "nitro"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "121-71-1": {
+  "categories": [
+   "carbonyl-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic ketone",
+  "tags": [
+   "ketone",
+   "phenol"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "121-89-1": {
+  "categories": [
+   "carbonyl-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic ketone",
+  "tags": [
+   "ketone",
+   "nitro"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "12125-02-9": {
+  "categories": [
+   "non-metal-salts"
+  ],
+  "chemical_class": "Non-metal salt",
+  "tags": [],
+  "synonyms": [
+   "NH4Cl",
+   "Sal ammoniac"
+  ],
+  "source": "structure",
+  "mixture": false
+ },
+ "122-00-9": {
+  "categories": [
+   "carbonyl-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic ketone",
+  "tags": [
+   "ketone"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "122-03-2": {
+  "categories": [
+   "carbonyl-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aldehyde",
+  "tags": [
+   "aldehyde"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "123-08-0": {
+  "categories": [
+   "carbonyl-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aldehyde",
+  "tags": [
+   "aldehyde",
+   "phenol"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "123-11-5": {
+  "categories": [
+   "carbonyl-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aldehyde",
+  "tags": [
+   "aldehyde",
+   "ether"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "123-30-8": {
+  "categories": [
+   "bb-amines",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aniline",
+  "tags": [
+   "aniline",
+   "phenol"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "123-31-9": {
+  "categories": [
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic phenol",
+  "tags": [
+   "phenol"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "123-63-7": {
+  "categories": [
+   "organic-reagents"
+  ],
+  "chemical_class": "Heterocyclic ether",
+  "tags": [
+   "acetaldehyde source",
+   "ether"
+  ],
+  "synonyms": [],
+  "source": "curated",
+  "mixture": false
+ },
+ "123-75-1": {
+  "categories": [
+   "organic-bases",
+   "heterocyclic-compounds"
+  ],
+  "chemical_class": "Heterocyclic amine",
+  "tags": [
+   "base",
+   "secondary amine"
+  ],
+  "synonyms": [],
+  "source": "curated",
+  "mixture": false
+ },
+ "123-90-0": {
+  "categories": [
+   "heterocyclic-compounds",
+   "bb-amines"
+  ],
+  "chemical_class": "Heterocyclic amine",
+  "tags": [
+   "secondary amine"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "123-91-1": {
+  "categories": [
+   "non-polar-solvents"
+  ],
+  "chemical_class": "Heterocyclic ether",
+  "tags": [
+   "solvent",
+   "ether"
+  ],
+  "synonyms": [
+   "Dioxane",
+   "p-Dioxane"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "124-41-4": {
+  "categories": [
+   "alkoxides"
+  ],
+  "chemical_class": "Aliphatic compound",
+  "tags": [
+   "base"
+  ],
+  "synonyms": [
+   "NaOMe",
+   "Sodium methylate"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "126-81-8": {
+  "categories": [
+   "carbonyl-compounds"
+  ],
+  "chemical_class": "Alicyclic ketone",
+  "tags": [
+   "ketone"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "127-08-2": {
+  "categories": [
+   "metal-salts"
+  ],
+  "chemical_class": "Aliphatic carboxylate salt",
+  "tags": [
+   "carboxylate salt"
+  ],
+  "synonyms": [
+   "KOAc"
+  ],
+  "source": "structure",
+  "mixture": false
+ },
+ "127-09-3": {
+  "categories": [
+   "metal-salts"
+  ],
+  "chemical_class": "Aliphatic carboxylate salt",
+  "tags": [
+   "carboxylate salt"
+  ],
+  "synonyms": [
+   "NaOAc"
+  ],
+  "source": "structure",
+  "mixture": false
+ },
+ "128-08-5": {
+  "categories": [
+   "halogenating-agents"
+  ],
+  "chemical_class": "Heterocyclic amide",
+  "tags": [
+   "brominating agent",
+   "amide",
+   "brominated"
+  ],
+  "synonyms": [
+   "NBS"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "128-09-6": {
+  "categories": [
+   "halogenating-agents"
+  ],
+  "chemical_class": "Heterocyclic amide",
+  "tags": [
+   "chlorinating agent",
+   "amide",
+   "chlorinated"
+  ],
+  "synonyms": [
+   "NCS"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "130-15-4": {
+  "categories": [
+   "carbonyl-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic ketone",
+  "tags": [
+   "ketone"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "130-22-3": {
+  "categories": [
+   "indicators"
+  ],
+  "chemical_class": "Aromatic ketone",
+  "tags": [
+   "dye",
+   "stain",
+   "ketone",
+   "phenol"
+  ],
+  "synonyms": [
+   "ARS"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "1305-62-0": {
+  "categories": [
+   "inorganic-bases"
+  ],
+  "chemical_class": "Metal salt",
+  "tags": [
+   "base",
+   "hydrate"
+  ],
+  "synonyms": [
+   "Ca(OH)2",
+   "Slaked lime"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "13091-43-5": {
+  "categories": [
+   "bb-amines",
+   "halogenated-compounds",
+   "aromatic-compounds",
+   "carboxylic-acids"
+  ],
+  "chemical_class": "Aromatic carboxylic acid",
+  "tags": [
+   "aniline",
+   "brominated",
+   "carboxylic acid"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "1310-58-3": {
+  "categories": [
+   "inorganic-bases"
+  ],
+  "chemical_class": "Metal salt",
+  "tags": [
+   "base",
+   "hydrate"
+  ],
+  "synonyms": [
+   "KOH",
+   "Caustic potash"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "1310-66-3": {
+  "categories": [
+   "inorganic-bases"
+  ],
+  "chemical_class": "Metal salt",
+  "tags": [
+   "base",
+   "hydrate"
+  ],
+  "synonyms": [
+   "LiOH",
+   "LiOH.H2O"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "1310-73-2": {
+  "categories": [
+   "inorganic-bases"
+  ],
+  "chemical_class": "Metal salt",
+  "tags": [
+   "base",
+   "hydrate"
+  ],
+  "synonyms": [
+   "NaOH",
+   "Caustic soda"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "1313-13-9": {
+  "categories": [
+   "oxidizing-agents",
+   "metal-oxides"
+  ],
+  "chemical_class": "Metal oxide",
+  "tags": [
+   "oxidant"
+  ],
+  "synonyms": [
+   "MnO2"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "133115-72-7": {
+  "categories": [
+   "bb-amines",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic hydrazine",
+  "tags": [
+   "aniline",
+   "ether",
+   "fluorinated",
+   "hydrazine",
+   "hydrochloride salt",
+   "trifluoromethyl"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "1333981-84-2": {
+  "categories": [
+   "metal-catalysts"
+  ],
+  "chemical_class": "Aromatic amine",
+  "tags": [
+   "ruthenium",
+   "asymmetric transfer hydrogenation",
+   "chiral",
+   "ether",
+   "secondary amine"
+  ],
+  "synonyms": [
+   "Ts-DENEB"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "1336-21-6": {
+  "categories": [
+   "inorganic-bases"
+  ],
+  "chemical_class": "Non-metal salt",
+  "tags": [
+   "base",
+   "aqueous solution",
+   "hydrate"
+  ],
+  "synonyms": [
+   "NH4OH",
+   "Aqueous ammonia",
+   "Ammonia solution"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "134-03-2": {
+  "categories": [
+   "reducing-agents"
+  ],
+  "chemical_class": "Heterocyclic ester",
+  "tags": [
+   "click chemistry",
+   "alcohol",
+   "chiral",
+   "ester"
+  ],
+  "synonyms": [
+   "NaAsc"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "1344-01-0": {
+  "categories": [
+   "drying-agents",
+   "adsorbents"
+  ],
+  "chemical_class": null,
+  "tags": [
+   "molecular sieves"
+  ],
+  "synonyms": [
+   "Mol sieves",
+   "MS 5A"
+  ],
+  "source": "curated",
+  "mixture": true
+ },
+ "1344-28-1": {
+  "categories": [
+   "adsorbents",
+   "metal-oxides"
+  ],
+  "chemical_class": "Metal oxide",
+  "tags": [
+   "chromatography",
+   "hydrate"
+  ],
+  "synonyms": [
+   "Alumina",
+   "Al2O3"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "13478-00-7": {
+  "categories": [
+   "metal-salts"
+  ],
+  "chemical_class": "Metal salt",
+  "tags": [
+   "hydrate"
+  ],
+  "synonyms": [
+   "Ni(NO3)2"
+  ],
+  "source": "structure",
+  "mixture": false
+ },
+ "135-19-3": {
+  "categories": [
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic phenol",
+  "tags": [
+   "phenol"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "137-07-5": {
+  "categories": [
+   "bb-amines",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aniline",
+  "tags": [
+   "aniline"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "138-37-4": {
+  "categories": [
+   "bb-amines",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic sulfonamide",
+  "tags": [
+   "hydrochloride salt",
+   "primary amine",
+   "sulfonamide"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "138-41-0": {
+  "categories": [
+   "aromatic-compounds",
+   "carboxylic-acids"
+  ],
+  "chemical_class": "Aromatic carboxylic acid",
+  "tags": [
+   "carboxylic acid",
+   "sulfonamide"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "139-85-5": {
+  "categories": [
+   "carbonyl-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aldehyde",
+  "tags": [
+   "aldehyde",
+   "phenol"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "140-75-0": {
+  "categories": [
+   "bb-amines",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic amine",
+  "tags": [
+   "fluorinated",
+   "primary amine"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "141-82-2": {
+  "categories": [
+   "carboxylic-acids"
+  ],
+  "chemical_class": "Aliphatic carboxylic acid",
+  "tags": [
+   "carboxylic acid"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "141-84-4": {
+  "categories": [
+   "heterocyclic-compounds",
+   "carboxylic-acid-derivatives"
+  ],
+  "chemical_class": "Heterocyclic amide",
+  "tags": [
+   "amide"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "141-97-9": {
+  "categories": [
+   "carbonyl-compounds",
+   "carboxylic-acid-derivatives"
+  ],
+  "chemical_class": "Aliphatic ester",
+  "tags": [
+   "ester",
+   "ketone"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "143-74-8": {
+  "categories": [
+   "indicators"
+  ],
+  "chemical_class": "Heterocyclic phenol",
+  "tags": [
+   "pH indicator",
+   "dye",
+   "phenol"
+  ],
+  "synonyms": [
+   "Phenolsulfonphthalein"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "14371-10-9": {
+  "categories": [
+   "carbonyl-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aldehyde",
+  "tags": [
+   "aldehyde"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "144-55-8": {
+  "categories": [
+   "inorganic-bases",
+   "metal-salts"
+  ],
+  "chemical_class": "Metal salt",
+  "tags": [
+   "base",
+   "carbonate"
+  ],
+  "synonyms": [
+   "NaHCO3",
+   "Sodium hydrogen carbonate",
+   "Baking soda"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "1445-45-0": {
+  "categories": [
+   "organic-reagents"
+  ],
+  "chemical_class": "Aliphatic ether",
+  "tags": [
+   "orthoester",
+   "ether"
+  ],
+  "synonyms": [
+   "TMOA"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "1450-72-2": {
+  "categories": [
+   "carbonyl-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic ketone",
+  "tags": [
+   "ketone",
+   "phenol"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "1450-74-4": {
+  "categories": [
+   "carbonyl-compounds",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic ketone",
+  "tags": [
+   "chlorinated",
+   "ketone",
+   "phenol"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "1450-75-5": {
+  "categories": [
+   "carbonyl-compounds",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic ketone",
+  "tags": [
+   "brominated",
+   "ketone",
+   "phenol"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "147-85-3": {
+  "categories": [
+   "organocatalysts",
+   "heterocyclic-compounds"
+  ],
+  "chemical_class": "Heterocyclic carboxylic acid",
+  "tags": [
+   "amino acid",
+   "chiral",
+   "carboxylic acid",
+   "secondary amine"
+  ],
+  "synonyms": [
+   "Pro",
+   "Proline"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "1477-50-5": {
+  "categories": [
+   "heterocyclic-compounds",
+   "carboxylic-acids"
+  ],
+  "chemical_class": "Heteroaromatic carboxylic acid",
+  "tags": [
+   "carboxylic acid",
+   "heteroaromatic"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "147754-12-9": {
+  "categories": [
+   "carboxylic-acid-derivatives",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic nitrile",
+  "tags": [
+   "fluorinated",
+   "nitrile"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "14794-31-1": {
+  "categories": [
+   "carboxylic-acid-derivatives",
+   "halogenated-compounds",
+   "acylating-agents"
+  ],
+  "chemical_class": "Aliphatic acid chloride",
+  "tags": [
+   "acid chloride",
+   "chlorinated",
+   "ester"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "1481-27-2": {
+  "categories": [
+   "carbonyl-compounds",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic ketone",
+  "tags": [
+   "fluorinated",
+   "ketone",
+   "phenol"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "148893-10-1": {
+  "categories": [
+   "amide-coupling-reagents"
+  ],
+  "chemical_class": "Heteroaromatic compound",
+  "tags": [
+   "uronium salt",
+   "heteroaromatic"
+  ],
+  "synonyms": [
+   "HATU"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "1493-13-6": {
+  "categories": [
+   "sulfonic-acids",
+   "organic-acids"
+  ],
+  "chemical_class": "Inorganic compound",
+  "tags": [
+   "acid",
+   "superacid",
+   "fluorinated"
+  ],
+  "synonyms": [
+   "TfOH",
+   "Triflic acid"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "150-13-0": {
+  "categories": [
+   "bb-amines",
+   "aromatic-compounds",
+   "carboxylic-acids"
+  ],
+  "chemical_class": "Aromatic carboxylic acid",
+  "tags": [
+   "aniline",
+   "carboxylic acid"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "15114-43-9": {
+  "categories": [
+   "halogenating-agents"
+  ],
+  "chemical_class": "Inorganic compound",
+  "tags": [
+   "brominating agent"
+  ],
+  "synonyms": [
+   "DBI"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "1527-89-5": {
+  "categories": [
+   "carboxylic-acid-derivatives",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic nitrile",
+  "tags": [
+   "ether",
+   "nitrile"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "1575-37-7": {
+  "categories": [
+   "bb-amines",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aniline",
+  "tags": [
+   "aniline",
+   "brominated"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "15764-16-6": {
+  "categories": [
+   "carbonyl-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aldehyde",
+  "tags": [
+   "aldehyde"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "1585-16-6": {
+  "categories": [
+   "halogenated-compounds",
+   "aromatic-compounds",
+   "alkylating-agents"
+  ],
+  "chemical_class": "Aromatic benzylic halide",
+  "tags": [
+   "benzylic halide",
+   "chlorinated"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "15861-24-2": {
+  "categories": [
+   "heterocyclic-compounds",
+   "carboxylic-acid-derivatives"
+  ],
+  "chemical_class": "Heteroaromatic nitrile",
+  "tags": [
+   "heteroaromatic",
+   "nitrile"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "160542-02-9": {
+  "categories": [
+   "alkynes",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic alkyne",
+  "tags": [
+   "ether",
+   "fluorinated",
+   "terminal alkyne",
+   "trifluoromethyl"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "161265-03-8": {
+  "categories": [
+   "ligands",
+   "cross-coupling-reagents"
+  ],
+  "chemical_class": "Heterocyclic ether",
+  "tags": [
+   "phosphine ligand",
+   "ether"
+  ],
+  "synonyms": [
+   "Xantphos",
+   "Xphos"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "161596-47-0": {
+  "categories": [
+   "heterocyclic-compounds",
+   "carboxylic-acid-derivatives"
+  ],
+  "chemical_class": "Heterocyclic amide",
+  "tags": [
+   "amide",
+   "chiral",
+   "epoxide",
+   "ether"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "1623-08-1": {
+  "categories": [
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic compound",
+  "tags": [],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "163444-17-5": {
+  "categories": [
+   "bb-amines",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aniline",
+  "tags": [
+   "aniline",
+   "fluorinated",
+   "iodinated",
+   "trifluoromethyl"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "1635-61-6": {
+  "categories": [
+   "bb-amines",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aniline",
+  "tags": [
+   "aniline",
+   "chlorinated",
+   "nitro"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "16853-85-3": {
+  "categories": [
+   "reducing-agents"
+  ],
+  "chemical_class": "Metal salt",
+  "tags": [
+   "hydride",
+   "moisture sensitive"
+  ],
+  "synonyms": [
+   "LAH",
+   "LiAlH4",
+   "Lithium tetrahydroaluminate"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "1692-15-5": {
+  "categories": [
+   "heterocyclic-compounds",
+   "cross-coupling-reagents"
+  ],
+  "chemical_class": "Heteroaromatic boronic acid/ester",
+  "tags": [
+   "boronic acid",
+   "heteroaromatic"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "1694-29-7": {
+  "categories": [
+   "carbonyl-compounds",
+   "halogenated-compounds",
+   "alkylating-agents"
+  ],
+  "chemical_class": "Aliphatic ketone",
+  "tags": [
+   "chlorinated",
+   "ketone"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "1694-92-4": {
+  "categories": [
+   "halogenated-compounds",
+   "aromatic-compounds",
+   "sulfonylating-agents"
+  ],
+  "chemical_class": "Aromatic sulfonyl chloride",
+  "tags": [
+   "chlorinated",
+   "nitro",
+   "sulfonyl chloride"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "1700-37-4": {
+  "categories": [
+   "carbonyl-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aldehyde",
+  "tags": [
+   "aldehyde",
+   "ether"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "17028-61-4": {
+  "categories": [
+   "carbonyl-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aldehyde",
+  "tags": [
+   "aldehyde",
+   "ether",
+   "nitro",
+   "phenol"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "17372-87-1": {
+  "categories": [
+   "indicators"
+  ],
+  "chemical_class": "Heteroaromatic carboxylate salt",
+  "tags": [
+   "dye",
+   "stain",
+   "brominated",
+   "carboxylate salt",
+   "heteroaromatic"
+  ],
+  "synonyms": [
+   "Eosin Y"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "17455-13-9": {
+  "categories": [
+   "phase-transfer-catalysts"
+  ],
+  "chemical_class": "Heterocyclic ether",
+  "tags": [
+   "crown ether",
+   "ether"
+  ],
+  "synonyms": [
+   "18C6"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "17573-94-3": {
+  "categories": [
+   "alkynes",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic alkyne",
+  "tags": [
+   "terminal alkyne"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "1762-95-4": {
+  "categories": [
+   "non-metal-salts"
+  ],
+  "chemical_class": "Non-metal salt",
+  "tags": [],
+  "synonyms": [
+   "NH4SCN"
+  ],
+  "source": "structure",
+  "mixture": false
+ },
+ "17630-76-1": {
+  "categories": [
+   "heterocyclic-compounds",
+   "carbonyl-compounds",
+   "carboxylic-acid-derivatives",
+   "halogenated-compounds"
+  ],
+  "chemical_class": "Heterocyclic amide",
+  "tags": [
+   "amide",
+   "chlorinated",
+   "ketone"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "1777-03-3": {
+  "categories": [
+   "alkynes"
+  ],
+  "chemical_class": "Aliphatic alkyne",
+  "tags": [
+   "silyl",
+   "terminal alkyne"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "17852-52-7": {
+  "categories": [
+   "bb-amines",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic sulfonamide",
+  "tags": [
+   "aniline",
+   "hydrazine",
+   "hydrochloride salt",
+   "sulfonamide"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "179897-89-3": {
+  "categories": [
+   "carboxylic-acid-derivatives",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic nitrile",
+  "tags": [
+   "brominated",
+   "fluorinated",
+   "nitrile"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "1813-33-8": {
+  "categories": [
+   "carboxylic-acid-derivatives",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic nitrile",
+  "tags": [
+   "chlorinated",
+   "fluorinated",
+   "nitrile",
+   "trifluoromethyl"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "18163-47-8": {
+  "categories": [
+   "alkynes",
+   "halogenated-compounds"
+  ],
+  "chemical_class": "Aliphatic alkyne",
+  "tags": [
+   "iodinated",
+   "silyl"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "18523-22-3": {
+  "categories": [
+   "carbonyl-compounds",
+   "halogenated-compounds",
+   "aromatic-compounds",
+   "alkylating-agents"
+  ],
+  "chemical_class": "Aromatic ketone",
+  "tags": [
+   "brominated",
+   "ketone"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "18791-02-1": {
+  "categories": [
+   "carboxylic-acid-derivatives",
+   "halogenated-compounds",
+   "acylating-agents",
+   "alkylating-agents"
+  ],
+  "chemical_class": "Aliphatic acid chloride",
+  "tags": [
+   "acid chloride",
+   "brominated",
+   "chlorinated"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "19501-58-7": {
+  "categories": [
+   "bb-amines",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic hydrazine",
+  "tags": [
+   "aniline",
+   "ether",
+   "hydrazine",
+   "hydrochloride salt"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "1953-99-7": {
+  "categories": [
+   "carboxylic-acid-derivatives",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic nitrile",
+  "tags": [
+   "chlorinated",
+   "nitrile"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "1964-29-7": {
+  "categories": [
+   "unclassified"
+  ],
+  "chemical_class": null,
+  "tags": [],
+  "synonyms": [],
+  "source": "unclassified",
+  "mixture": false
+ },
+ "1979-36-8": {
+  "categories": [
+   "carbonyl-compounds",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic ketone",
+  "tags": [
+   "fluorinated",
+   "ketone"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "2032-35-1": {
+  "categories": [
+   "halogenated-compounds",
+   "alkylating-agents"
+  ],
+  "chemical_class": "Aliphatic alkyl halide",
+  "tags": [
+   "brominated",
+   "ether"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "2033-24-1": {
+  "categories": [
+   "heterocyclic-compounds",
+   "carboxylic-acid-derivatives"
+  ],
+  "chemical_class": "Heterocyclic ester",
+  "tags": [
+   "ester"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "20776-50-5": {
+  "categories": [
+   "bb-amines",
+   "halogenated-compounds",
+   "aromatic-compounds",
+   "carboxylic-acids"
+  ],
+  "chemical_class": "Aromatic carboxylic acid",
+  "tags": [
+   "aniline",
+   "brominated",
+   "carboxylic acid"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "20776-67-4": {
+  "categories": [
+   "bb-amines",
+   "halogenated-compounds",
+   "aromatic-compounds",
+   "carboxylic-acids"
+  ],
+  "chemical_class": "Aromatic carboxylic acid",
+  "tags": [
+   "aniline",
+   "carboxylic acid",
+   "chlorinated"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "2094-72-6": {
+  "categories": [
+   "carboxylic-acid-derivatives",
+   "halogenated-compounds",
+   "acylating-agents"
+  ],
+  "chemical_class": "Alicyclic acid chloride",
+  "tags": [
+   "acid chloride",
+   "chlorinated"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "2133-40-6": {
+  "categories": [
+   "heterocyclic-compounds",
+   "bb-amines",
+   "carboxylic-acid-derivatives"
+  ],
+  "chemical_class": "Heterocyclic ester",
+  "tags": [
+   "chiral",
+   "ester",
+   "hydrochloride salt",
+   "secondary amine"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "2142-63-4": {
+  "categories": [
+   "carbonyl-compounds",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic ketone",
+  "tags": [
+   "brominated",
+   "ketone"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "2142-68-9": {
+  "categories": [
+   "carbonyl-compounds",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic ketone",
+  "tags": [
+   "chlorinated",
+   "ketone"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "2142-69-0": {
+  "categories": [
+   "carbonyl-compounds",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic ketone",
+  "tags": [
+   "brominated",
+   "ketone"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "218632-01-0": {
+  "categories": [
+   "carboxylic-acid-derivatives",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic nitrile",
+  "tags": [
+   "fluorinated",
+   "nitrile",
+   "nitro"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "22115-41-9": {
+  "categories": [
+   "carboxylic-acid-derivatives",
+   "halogenated-compounds",
+   "aromatic-compounds",
+   "alkylating-agents"
+  ],
+  "chemical_class": "Aromatic nitrile",
+  "tags": [
+   "benzylic halide",
+   "brominated",
+   "nitrile"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "22189-08-8": {
+  "categories": [
+   "drying-agents",
+   "metal-salts"
+  ],
+  "chemical_class": null,
+  "tags": [
+   "hydrate"
+  ],
+  "synonyms": [
+   "MgSO4"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "2234-16-4": {
+  "categories": [
+   "carbonyl-compounds",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic ketone",
+  "tags": [
+   "chlorinated",
+   "ketone"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "2252-50-8": {
+  "categories": [
+   "halogenated-compounds",
+   "aromatic-compounds",
+   "carboxylic-acids"
+  ],
+  "chemical_class": "Aromatic carboxylic acid",
+  "tags": [
+   "carboxylic acid",
+   "chlorinated",
+   "fluorinated"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "2284-20-0": {
+  "categories": [
+   "isocyanates-isothiocyanates",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic isothiocyanate",
+  "tags": [
+   "ether",
+   "isothiocyanate"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "2295-31-0": {
+  "categories": [
+   "heterocyclic-compounds",
+   "carboxylic-acid-derivatives"
+  ],
+  "chemical_class": "Heterocyclic amide",
+  "tags": [
+   "amide"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "23165-29-9": {
+  "categories": [
+   "isocyanates-isothiocyanates",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic isothiocyanate",
+  "tags": [
+   "fluorinated",
+   "isothiocyanate",
+   "trifluoromethyl"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "23165-49-3": {
+  "categories": [
+   "isocyanates-isothiocyanates",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic isothiocyanate",
+  "tags": [
+   "chlorinated",
+   "fluorinated",
+   "isothiocyanate",
+   "trifluoromethyl"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "231953-38-1": {
+  "categories": [
+   "carboxylic-acid-derivatives",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic nitrile",
+  "tags": [
+   "fluorinated",
+   "nitrile",
+   "trifluoromethyl"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "2402-78-0": {
+  "categories": [
+   "heterocyclic-compounds",
+   "halogenated-compounds"
+  ],
+  "chemical_class": "Heteroaromatic aryl halide",
+  "tags": [
+   "chlorinated",
+   "heteroaromatic"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "24313-88-0": {
+  "categories": [
+   "bb-amines",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aniline",
+  "tags": [
+   "aniline",
+   "ether"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "24424-99-5": {
+  "categories": [
+   "boc-protection"
+  ],
+  "chemical_class": "Aliphatic anhydride",
+  "tags": [
+   "Boc",
+   "anhydride"
+  ],
+  "synonyms": [
+   "Boc2O",
+   "Boc anhydride",
+   "Di-tert-butyl dicarbonate"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "2450-71-7": {
+  "categories": [
+   "alkynes",
+   "bb-amines"
+  ],
+  "chemical_class": "Aliphatic amine",
+  "tags": [
+   "primary amine",
+   "terminal alkyne"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "2524-67-6": {
+  "categories": [
+   "heterocyclic-compounds",
+   "bb-amines"
+  ],
+  "chemical_class": "Heterocyclic aniline",
+  "tags": [
+   "aniline",
+   "ether"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "2564-83-2": {
+  "categories": [
+   "organocatalysts",
+   "oxidizing-agents"
+  ],
+  "chemical_class": "Heterocyclic compound",
+  "tags": [
+   "radical",
+   "oxidation catalyst"
+  ],
+  "synonyms": [
+   "TEMPO"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "2576-47-8": {
+  "categories": [
+   "bb-amines",
+   "halogenated-compounds",
+   "alkylating-agents"
+  ],
+  "chemical_class": "Aliphatic amine",
+  "tags": [
+   "brominated",
+   "hydrobromide salt",
+   "primary amine"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "2581-34-2": {
+  "categories": [
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic phenol",
+  "tags": [
+   "nitro",
+   "phenol"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "2582-30-1": {
+  "categories": [
+   "inorganic-compounds"
+  ],
+  "chemical_class": "Inorganic compound",
+  "tags": [],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "2592-95-2": {
+  "categories": [
+   "amide-coupling-reagents"
+  ],
+  "chemical_class": "Heteroaromatic compound",
+  "tags": [
+   "coupling additive",
+   "heteroaromatic"
+  ],
+  "synonyms": [
+   "HOBt"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "25952-53-8": {
+  "categories": [
+   "amide-coupling-reagents"
+  ],
+  "chemical_class": "Aliphatic amine",
+  "tags": [
+   "carbodiimide",
+   "hydrochloride salt",
+   "tertiary amine"
+  ],
+  "synonyms": [
+   "EDC",
+   "EDCI",
+   "EDC.HCl",
+   "EDAC",
+   "WSC"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "25962-53-8": {
+  "categories": [
+   "unclassified"
+  ],
+  "chemical_class": null,
+  "tags": [],
+  "synonyms": [],
+  "source": "unclassified",
+  "mixture": false
+ },
+ "26093-31-2": {
+  "categories": [
+   "heterocyclic-compounds",
+   "bb-amines"
+  ],
+  "chemical_class": "Heteroaromatic aniline",
+  "tags": [
+   "aniline",
+   "heteroaromatic"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "2612-02-4": {
+  "categories": [
+   "aromatic-compounds",
+   "carboxylic-acids"
+  ],
+  "chemical_class": "Aromatic carboxylic acid",
+  "tags": [
+   "carboxylic acid",
+   "ether",
+   "phenol"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "26278-79-5": {
+  "categories": [
+   "heterocyclic-compounds",
+   "bb-amines"
+  ],
+  "chemical_class": "Heteroaromatic aniline",
+  "tags": [
+   "aniline",
+   "heteroaromatic",
+   "phenol"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "2632-13-5": {
+  "categories": [
+   "carbonyl-compounds",
+   "halogenated-compounds",
+   "aromatic-compounds",
+   "alkylating-agents"
+  ],
+  "chemical_class": "Aromatic ketone",
+  "tags": [
+   "brominated",
+   "ether",
+   "ketone"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "26628-22-8": {
+  "categories": [
+   "inorganic-compounds",
+   "organic-reagents"
+  ],
+  "chemical_class": "Metal salt",
+  "tags": [
+   "azide"
+  ],
+  "synonyms": [
+   "NaN3"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "2712-78-9": {
+  "categories": [
+   "oxidizing-agents"
+  ],
+  "chemical_class": "Aromatic aryl halide",
+  "tags": [
+   "hypervalent iodine",
+   "fluorinated",
+   "iodinated",
+   "trifluoromethyl"
+  ],
+  "synonyms": [
+   "PIDA",
+   "PhI(OAc)2",
+   "Iodobenzene diacetate",
+   "DIB"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "27126-76-7": {
+  "categories": [
+   "oxidizing-agents"
+  ],
+  "chemical_class": "Aromatic aryl halide",
+  "tags": [
+   "hypervalent iodine",
+   "iodinated"
+  ],
+  "synonyms": [
+   "HTIB",
+   "Koser's reagent"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "2719-32-6": {
+  "categories": [
+   "isocyanates-isothiocyanates",
+   "carboxylic-acid-derivatives",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic isothiocyanate",
+  "tags": [
+   "isothiocyanate",
+   "nitrile"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "2725-81-7": {
+  "categories": [
+   "heterocyclic-compounds"
+  ],
+  "chemical_class": "Heteroaromatic nitro compound",
+  "tags": [
+   "heteroaromatic",
+   "nitro"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "280-57-9": {
+  "categories": [
+   "organic-bases",
+   "organocatalysts"
+  ],
+  "chemical_class": "Heterocyclic amine",
+  "tags": [
+   "base",
+   "tertiary amine"
+  ],
+  "synonyms": [
+   "DABCO",
+   "1,4-Diazabicyclo[2.2.2]octane",
+   "Triethylenediamine"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "2822-50-6": {
+  "categories": [
+   "bb-amines",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aniline",
+  "tags": [
+   "aniline",
+   "ether",
+   "fluorinated",
+   "nitro",
+   "trifluoromethyl"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "28924-21-2": {
+  "categories": [
+   "carbonyl-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic ketone",
+  "tags": [
+   "ether",
+   "ketone"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "2909-38-8": {
+  "categories": [
+   "isocyanates-isothiocyanates",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic isocyanate",
+  "tags": [
+   "chlorinated",
+   "isocyanate"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "29241-65-4": {
+  "categories": [
+   "heterocyclic-compounds",
+   "halogenated-compounds",
+   "carboxylic-acids"
+  ],
+  "chemical_class": "Heteroaromatic carboxylic acid",
+  "tags": [
+   "brominated",
+   "carboxylic acid",
+   "chlorinated",
+   "heteroaromatic"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "2941-78-8": {
+  "categories": [
+   "bb-amines",
+   "aromatic-compounds",
+   "carboxylic-acids"
+  ],
+  "chemical_class": "Aromatic carboxylic acid",
+  "tags": [
+   "aniline",
+   "carboxylic acid"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "3034-38-6": {
+  "categories": [
+   "heterocyclic-compounds"
+  ],
+  "chemical_class": "Heteroaromatic nitro compound",
+  "tags": [
+   "heteroaromatic",
+   "nitro"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "30525-89-4": {
+  "categories": [
+   "organic-reagents",
+   "carbonyl-compounds"
+  ],
+  "chemical_class": null,
+  "tags": [
+   "formaldehyde source"
+  ],
+  "synonyms": [
+   "PFA",
+   "(CH2O)n"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "3132-99-8": {
+  "categories": [
+   "carbonyl-compounds",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aldehyde",
+  "tags": [
+   "aldehyde",
+   "brominated"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "315-30-0": {
+  "categories": [
+   "heterocyclic-compounds"
+  ],
+  "chemical_class": "Heteroaromatic compound",
+  "tags": [
+   "heteroaromatic"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "3162-29-6": {
+  "categories": [
+   "heterocyclic-compounds",
+   "carbonyl-compounds"
+  ],
+  "chemical_class": "Heterocyclic ketone",
+  "tags": [
+   "ether",
+   "ketone"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "321-14-2": {
+  "categories": [
+   "halogenated-compounds",
+   "aromatic-compounds",
+   "carboxylic-acids"
+  ],
+  "chemical_class": "Aromatic carboxylic acid",
+  "tags": [
+   "carboxylic acid",
+   "chlorinated",
+   "phenol"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "32315-10-9": {
+  "categories": [
+   "acylating-agents"
+  ],
+  "chemical_class": "Inorganic compound",
+  "tags": [
+   "phosgene equivalent"
+  ],
+  "synonyms": [
+   "BTC",
+   "Bis(trichloromethyl) carbonate"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "3306-62-5": {
+  "categories": [
+   "bb-amines",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic sulfonamide",
+  "tags": [
+   "aniline",
+   "sulfonamide"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "3321-92-4": {
+  "categories": [
+   "carbonyl-compounds",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic ketone",
+  "tags": [
+   "chlorinated",
+   "ketone",
+   "phenol"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "333-20-0": {
+  "categories": [
+   "metal-salts"
+  ],
+  "chemical_class": "Metal salt",
+  "tags": [],
+  "synonyms": [
+   "KSCN"
+  ],
+  "source": "structure",
+  "mixture": false
+ },
+ "3396-11-0": {
+  "categories": [
+   "metal-salts"
+  ],
+  "chemical_class": "Aliphatic carboxylate salt",
+  "tags": [
+   "carboxylate salt"
+  ],
+  "synonyms": [
+   "CsOAc"
+  ],
+  "source": "structure",
+  "mixture": false
+ },
+ "34036-07-2": {
+  "categories": [
+   "carbonyl-compounds",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aldehyde",
+  "tags": [
+   "aldehyde",
+   "fluorinated"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "3433-80-5": {
+  "categories": [
+   "halogenated-compounds",
+   "aromatic-compounds",
+   "alkylating-agents"
+  ],
+  "chemical_class": "Aromatic benzylic halide",
+  "tags": [
+   "benzylic halide",
+   "brominated"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "348-54-9": {
+  "categories": [
+   "bb-amines",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aniline",
+  "tags": [
+   "aniline",
+   "fluorinated"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "350-03-8": {
+  "categories": [
+   "heterocyclic-compounds",
+   "carbonyl-compounds"
+  ],
+  "chemical_class": "Heteroaromatic ketone",
+  "tags": [
+   "heteroaromatic",
+   "ketone"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "350-46-9": {
+  "categories": [
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aryl halide",
+  "tags": [
+   "fluorinated",
+   "nitro"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "35302-72-8": {
+  "categories": [
+   "heterocyclic-compounds",
+   "carbonyl-compounds",
+   "halogenated-compounds"
+  ],
+  "chemical_class": "Heteroaromatic ketone",
+  "tags": [
+   "chlorinated",
+   "heteroaromatic",
+   "ketone"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "35794-11-7": {
+  "categories": [
+   "heterocyclic-compounds",
+   "bb-amines"
+  ],
+  "chemical_class": "Heterocyclic amine",
+  "tags": [
+   "secondary amine"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "3602-55-9": {
+  "categories": [
+   "carbonyl-compounds"
+  ],
+  "chemical_class": "Alicyclic ketone",
+  "tags": [
+   "ketone"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "369-32-4": {
+  "categories": [
+   "carbonyl-compounds",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic ketone",
+  "tags": [
+   "fluorinated",
+   "ketone"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "369-34-6": {
+  "categories": [
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aryl halide",
+  "tags": [
+   "fluorinated",
+   "nitro"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "371-40-4": {
+  "categories": [
+   "bb-amines",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aniline",
+  "tags": [
+   "aniline",
+   "fluorinated"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "372-09-8": {
+  "categories": [
+   "carboxylic-acid-derivatives",
+   "carboxylic-acids"
+  ],
+  "chemical_class": "Aliphatic carboxylic acid",
+  "tags": [
+   "carboxylic acid",
+   "nitrile"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "381-98-6": {
+  "categories": [
+   "halogenated-compounds",
+   "carboxylic-acids"
+  ],
+  "chemical_class": "Aliphatic carboxylic acid",
+  "tags": [
+   "carboxylic acid",
+   "fluorinated",
+   "trifluoromethyl"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "38861-78-8": {
+  "categories": [
+   "carbonyl-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic ketone",
+  "tags": [
+   "ketone"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "394-31-0": {
+  "categories": [
+   "bb-amines",
+   "aromatic-compounds",
+   "carboxylic-acids"
+  ],
+  "chemical_class": "Aromatic carboxylic acid",
+  "tags": [
+   "aniline",
+   "carboxylic acid",
+   "phenol"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "394-32-1": {
+  "categories": [
+   "carbonyl-compounds",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic ketone",
+  "tags": [
+   "fluorinated",
+   "ketone",
+   "phenol"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "39416-48-3": {
+  "categories": [
+   "halogenating-agents"
+  ],
+  "chemical_class": null,
+  "tags": [
+   "brominating agent"
+  ],
+  "synonyms": [
+   "PyHBr3",
+   "Pyridinium perbromide"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "3958-60-9": {
+  "categories": [
+   "halogenated-compounds",
+   "aromatic-compounds",
+   "alkylating-agents"
+  ],
+  "chemical_class": "Aromatic benzylic halide",
+  "tags": [
+   "benzylic halide",
+   "brominated",
+   "nitro"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "39755-95-8": {
+  "categories": [
+   "heterocyclic-compounds",
+   "carbonyl-compounds",
+   "carboxylic-acid-derivatives"
+  ],
+  "chemical_class": "Heterocyclic amide",
+  "tags": [
+   "amide",
+   "ether",
+   "ketone"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "40064-34-4": {
+  "categories": [
+   "unclassified"
+  ],
+  "chemical_class": null,
+  "tags": [],
+  "synonyms": [],
+  "source": "unclassified",
+  "mixture": false
+ },
+ "403-29-2": {
+  "categories": [
+   "carbonyl-compounds",
+   "halogenated-compounds",
+   "aromatic-compounds",
+   "alkylating-agents"
+  ],
+  "chemical_class": "Aromatic ketone",
+  "tags": [
+   "brominated",
+   "fluorinated",
+   "ketone"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "403-42-9": {
+  "categories": [
+   "carbonyl-compounds",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic ketone",
+  "tags": [
+   "fluorinated",
+   "ketone"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "404-24-0": {
+  "categories": [
+   "carboxylic-acid-derivatives",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic amide",
+  "tags": [
+   "amide",
+   "fluorinated",
+   "trifluoromethyl"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "41052-75-9": {
+  "categories": [
+   "bb-amines",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic hydrazine",
+  "tags": [
+   "aniline",
+   "chlorinated",
+   "hydrazine",
+   "hydrochloride salt"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "411-54-0": {
+  "categories": [
+   "unclassified"
+  ],
+  "chemical_class": null,
+  "tags": [],
+  "synonyms": [],
+  "source": "unclassified",
+  "mixture": false
+ },
+ "4111-54-0": {
+  "categories": [
+   "organic-bases",
+   "organometallic-reagents"
+  ],
+  "chemical_class": null,
+  "tags": [
+   "base",
+   "lithium amide",
+   "air sensitive"
+  ],
+  "synonyms": [
+   "LDA",
+   "Lithium diisopropylamide"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "4252-78-2": {
+  "categories": [
+   "carbonyl-compounds",
+   "halogenated-compounds",
+   "aromatic-compounds",
+   "alkylating-agents"
+  ],
+  "chemical_class": "Aromatic ketone",
+  "tags": [
+   "chlorinated",
+   "ketone"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "431-03-8": {
+  "categories": [
+   "carbonyl-compounds"
+  ],
+  "chemical_class": "Aliphatic ketone",
+  "tags": [
+   "ketone"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "4355-11-7": {
+  "categories": [
+   "carboxylic-acids"
+  ],
+  "chemical_class": "Alicyclic carboxylic acid",
+  "tags": [
+   "carboxylic acid"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "443-69-6": {
+  "categories": [
+   "heterocyclic-compounds",
+   "carbonyl-compounds",
+   "carboxylic-acid-derivatives",
+   "halogenated-compounds"
+  ],
+  "chemical_class": "Heterocyclic amide",
+  "tags": [
+   "amide",
+   "fluorinated",
+   "ketone"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "446-08-2": {
+  "categories": [
+   "bb-amines",
+   "halogenated-compounds",
+   "aromatic-compounds",
+   "carboxylic-acids"
+  ],
+  "chemical_class": "Aromatic carboxylic acid",
+  "tags": [
+   "aniline",
+   "carboxylic acid",
+   "fluorinated"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "446-32-2": {
+  "categories": [
+   "bb-amines",
+   "halogenated-compounds",
+   "aromatic-compounds",
+   "carboxylic-acids"
+  ],
+  "chemical_class": "Aromatic carboxylic acid",
+  "tags": [
+   "aniline",
+   "carboxylic acid",
+   "fluorinated"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "446-48-0": {
+  "categories": [
+   "halogenated-compounds",
+   "aromatic-compounds",
+   "alkylating-agents"
+  ],
+  "chemical_class": "Aromatic benzylic halide",
+  "tags": [
+   "benzylic halide",
+   "brominated",
+   "fluorinated"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "446-52-6": {
+  "categories": [
+   "carbonyl-compounds",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aldehyde",
+  "tags": [
+   "aldehyde",
+   "fluorinated"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "447-61-0": {
+  "categories": [
+   "carbonyl-compounds",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aldehyde",
+  "tags": [
+   "aldehyde",
+   "fluorinated",
+   "trifluoromethyl"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "455-14-1": {
+  "categories": [
+   "bb-amines",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aniline",
+  "tags": [
+   "aniline",
+   "fluorinated",
+   "trifluoromethyl"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "455-18-5": {
+  "categories": [
+   "carboxylic-acid-derivatives",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic nitrile",
+  "tags": [
+   "fluorinated",
+   "nitrile",
+   "trifluoromethyl"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "455-19-6": {
+  "categories": [
+   "carbonyl-compounds",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aldehyde",
+  "tags": [
+   "aldehyde",
+   "fluorinated",
+   "trifluoromethyl"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "455-88-9": {
+  "categories": [
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aryl halide",
+  "tags": [
+   "fluorinated",
+   "nitro"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "456-22-4": {
+  "categories": [
+   "halogenated-compounds",
+   "aromatic-compounds",
+   "carboxylic-acids"
+  ],
+  "chemical_class": "Aromatic carboxylic acid",
+  "tags": [
+   "carboxylic acid",
+   "fluorinated"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "459-57-4": {
+  "categories": [
+   "carbonyl-compounds",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aldehyde",
+  "tags": [
+   "aldehyde",
+   "fluorinated"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "461-82-5": {
+  "categories": [
+   "bb-amines",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aniline",
+  "tags": [
+   "aniline",
+   "ether",
+   "fluorinated",
+   "trifluoromethyl"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "4637-24-5": {
+  "categories": [
+   "organic-reagents"
+  ],
+  "chemical_class": "Aliphatic amine",
+  "tags": [
+   "formylating agent",
+   "acetal",
+   "ether",
+   "tertiary amine"
+  ],
+  "synonyms": [
+   "DMF-DMA",
+   "DMFDMA"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "4648-54-8": {
+  "categories": [
+   "organic-reagents"
+  ],
+  "chemical_class": "Aliphatic compound",
+  "tags": [
+   "azide",
+   "silyl"
+  ],
+  "synonyms": [
+   "TMSN3",
+   "Azidotrimethylsilane"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "487-89-8": {
+  "categories": [
+   "heterocyclic-compounds",
+   "carbonyl-compounds"
+  ],
+  "chemical_class": "Heteroaromatic aldehyde",
+  "tags": [
+   "aldehyde",
+   "heteroaromatic"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "490-78-8": {
+  "categories": [
+   "carbonyl-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic ketone",
+  "tags": [
+   "ketone",
+   "phenol"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "4949-44-4": {
+  "categories": [
+   "carbonyl-compounds",
+   "carboxylic-acid-derivatives"
+  ],
+  "chemical_class": "Aliphatic ester",
+  "tags": [
+   "ester",
+   "ketone"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "497-19-8": {
+  "categories": [
+   "inorganic-bases",
+   "metal-salts"
+  ],
+  "chemical_class": "Metal salt",
+  "tags": [
+   "base",
+   "carbonate"
+  ],
+  "synonyms": [
+   "Na2CO3",
+   "Soda ash"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "498-94-2": {
+  "categories": [
+   "heterocyclic-compounds",
+   "bb-amines",
+   "carboxylic-acids"
+  ],
+  "chemical_class": "Heterocyclic carboxylic acid",
+  "tags": [
+   "carboxylic acid",
+   "secondary amine"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "50-00-0": {
+  "categories": [
+   "organic-reagents",
+   "carbonyl-compounds"
+  ],
+  "chemical_class": "Aliphatic compound",
+  "tags": [
+   "aldehyde",
+   "solution"
+  ],
+  "synonyms": [
+   "HCHO",
+   "Formalin"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "50-01-1": {
+  "categories": [
+   "inorganic-compounds"
+  ],
+  "chemical_class": "Inorganic compound",
+  "tags": [],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "50-79-3": {
+  "categories": [
+   "halogenated-compounds",
+   "aromatic-compounds",
+   "carboxylic-acids"
+  ],
+  "chemical_class": "Aromatic carboxylic acid",
+  "tags": [
+   "carboxylic acid",
+   "chlorinated"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "50-85-1": {
+  "categories": [
+   "aromatic-compounds",
+   "carboxylic-acids"
+  ],
+  "chemical_class": "Aromatic carboxylic acid",
+  "tags": [
+   "carboxylic acid",
+   "phenol"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "5003-71-4": {
+  "categories": [
+   "bb-amines",
+   "halogenated-compounds",
+   "alkylating-agents"
+  ],
+  "chemical_class": "Aliphatic amine",
+  "tags": [
+   "brominated",
+   "hydrobromide salt",
+   "primary amine"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "504-24-5": {
+  "categories": [
+   "heterocyclic-compounds",
+   "bb-amines"
+  ],
+  "chemical_class": "Heteroaromatic aniline",
+  "tags": [
+   "aniline",
+   "heteroaromatic"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "504-29-0": {
+  "categories": [
+   "heterocyclic-compounds",
+   "bb-amines"
+  ],
+  "chemical_class": "Heteroaromatic aniline",
+  "tags": [
+   "aniline",
+   "heteroaromatic"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "5049-61-6": {
+  "categories": [
+   "heterocyclic-compounds",
+   "bb-amines"
+  ],
+  "chemical_class": "Heteroaromatic aniline",
+  "tags": [
+   "aniline",
+   "heteroaromatic"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "506-59-2": {
+  "categories": [
+   "bb-amines"
+  ],
+  "chemical_class": "Aliphatic amine",
+  "tags": [
+   "hydrochloride salt",
+   "secondary amine"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "50824-05-0": {
+  "categories": [
+   "halogenated-compounds",
+   "aromatic-compounds",
+   "alkylating-agents"
+  ],
+  "chemical_class": "Aromatic benzylic halide",
+  "tags": [
+   "benzylic halide",
+   "brominated",
+   "ether",
+   "fluorinated",
+   "trifluoromethyl"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "50893-53-3": {
+  "categories": [
+   "acylating-agents",
+   "deprotection-reagents"
+  ],
+  "chemical_class": "Aliphatic acid chloride",
+  "tags": [
+   "chloroformate",
+   "N-dealkylation",
+   "acid chloride",
+   "chlorinated"
+  ],
+  "synonyms": [
+   "ACE-Cl"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "51-17-2": {
+  "categories": [
+   "heterocyclic-compounds"
+  ],
+  "chemical_class": "Heteroaromatic compound",
+  "tags": [
+   "heteroaromatic"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "51-28-5": {
+  "categories": [
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic phenol",
+  "tags": [
+   "nitro",
+   "phenol"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "51364-51-3": {
+  "categories": [
+   "metal-catalysts",
+   "cross-coupling-reagents"
+  ],
+  "chemical_class": "Aromatic ketone",
+  "tags": [
+   "palladium",
+   "air sensitive",
+   "ketone"
+  ],
+  "synonyms": [
+   "Pd2(dba)3",
+   "Pd2dba3"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "51594-55-9": {
+  "categories": [
+   "alkylating-agents"
+  ],
+  "chemical_class": "Heterocyclic epoxide",
+  "tags": [
+   "epoxide",
+   "chiral",
+   "chlorinated",
+   "ether"
+  ],
+  "synonyms": [],
+  "source": "curated",
+  "mixture": false
+ },
+ "516-12-1": {
+  "categories": [
+   "halogenating-agents"
+  ],
+  "chemical_class": "Heterocyclic amide",
+  "tags": [
+   "iodinating agent",
+   "amide",
+   "iodinated"
+  ],
+  "synonyms": [
+   "NIS"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "5192-03-0": {
+  "categories": [
+   "heterocyclic-compounds",
+   "bb-amines"
+  ],
+  "chemical_class": "Heteroaromatic aniline",
+  "tags": [
+   "aniline",
+   "heteroaromatic"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "524-38-9": {
+  "categories": [
+   "organocatalysts"
+  ],
+  "chemical_class": "Heterocyclic amide",
+  "tags": [
+   "oxidation catalyst",
+   "amide"
+  ],
+  "synonyms": [
+   "NHPI"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "52548-63-7": {
+  "categories": [
+   "halogenated-compounds",
+   "aromatic-compounds",
+   "carboxylic-acids"
+  ],
+  "chemical_class": "Aromatic carboxylic acid",
+  "tags": [
+   "carboxylic acid",
+   "fluorinated",
+   "iodinated"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "5257-28-3": {
+  "categories": [
+   "heterocyclic-compounds",
+   "bb-amines",
+   "carboxylic-acid-derivatives"
+  ],
+  "chemical_class": "Heteroaromatic amide",
+  "tags": [
+   "amide",
+   "ether",
+   "heteroaromatic",
+   "primary amine"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "52671-64-4": {
+  "categories": [
+   "bb-amines",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aniline",
+  "tags": [
+   "aniline",
+   "chlorinated",
+   "hydrochloride salt",
+   "phenol"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "5271-67-0": {
+  "categories": [
+   "heterocyclic-compounds",
+   "carboxylic-acid-derivatives",
+   "halogenated-compounds",
+   "acylating-agents"
+  ],
+  "chemical_class": "Heteroaromatic acid chloride",
+  "tags": [
+   "acid chloride",
+   "chlorinated",
+   "heteroaromatic"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "530-62-1": {
+  "categories": [
+   "amide-coupling-reagents",
+   "acylating-agents"
+  ],
+  "chemical_class": "Heteroaromatic compound",
+  "tags": [
+   "carbonyl transfer",
+   "heteroaromatic"
+  ],
+  "synonyms": [
+   "CDI",
+   "Carbonyldiimidazole"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "5326-47-6": {
+  "categories": [
+   "bb-amines",
+   "halogenated-compounds",
+   "aromatic-compounds",
+   "carboxylic-acids"
+  ],
+  "chemical_class": "Aromatic carboxylic acid",
+  "tags": [
+   "aniline",
+   "carboxylic acid",
+   "iodinated"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "533-31-3": {
+  "categories": [
+   "heterocyclic-compounds"
+  ],
+  "chemical_class": "Heterocyclic phenol",
+  "tags": [
+   "ether",
+   "phenol"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "5345-47-1": {
+  "categories": [
+   "heterocyclic-compounds",
+   "bb-amines",
+   "carboxylic-acids"
+  ],
+  "chemical_class": "Heteroaromatic carboxylic acid",
+  "tags": [
+   "aniline",
+   "carboxylic acid",
+   "heteroaromatic"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "535-11-5": {
+  "categories": [
+   "carboxylic-acid-derivatives",
+   "halogenated-compounds",
+   "alkylating-agents"
+  ],
+  "chemical_class": "Aliphatic ester",
+  "tags": [
+   "brominated",
+   "ester"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "536-74-3": {
+  "categories": [
+   "alkynes",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic alkyne",
+  "tags": [
+   "terminal alkyne"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "5382-16-1": {
+  "categories": [
+   "heterocyclic-compounds",
+   "bb-amines"
+  ],
+  "chemical_class": "Heterocyclic amine",
+  "tags": [
+   "alcohol",
+   "secondary amine"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "540-51-2": {
+  "categories": [
+   "halogenated-compounds",
+   "alkylating-agents"
+  ],
+  "chemical_class": "Aliphatic alcohol",
+  "tags": [
+   "alcohol",
+   "brominated"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "54010-75-2": {
+  "categories": [
+   "metal-catalysts",
+   "metal-salts"
+  ],
+  "chemical_class": "Metal salt",
+  "tags": [
+   "Lewis acid",
+   "triflate"
+  ],
+  "synonyms": [
+   "Zn(OTf)2",
+   "Zinc triflate"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "54060-30-9": {
+  "categories": [
+   "alkynes",
+   "bb-amines",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aniline",
+  "tags": [
+   "aniline",
+   "terminal alkyne"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "5407-04-5": {
+  "categories": [
+   "halogenated-compounds"
+  ],
+  "chemical_class": "Aliphatic amine",
+  "tags": [
+   "chlorinated",
+   "hydrochloride salt",
+   "tertiary amine"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "541-41-3": {
+  "categories": [
+   "acylating-agents"
+  ],
+  "chemical_class": "Aliphatic acid chloride",
+  "tags": [
+   "chloroformate",
+   "acid chloride",
+   "chlorinated"
+  ],
+  "synonyms": [
+   "ECF"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "5419-55-6": {
+  "categories": [
+   "cross-coupling-reagents"
+  ],
+  "chemical_class": "Aliphatic boronic acid/ester",
+  "tags": [
+   "borate ester",
+   "borylation",
+   "boronic acid"
+  ],
+  "synonyms": [
+   "B(OiPr)3"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "542-85-8": {
+  "categories": [
+   "isocyanates-isothiocyanates"
+  ],
+  "chemical_class": "Aliphatic isothiocyanate",
+  "tags": [
+   "isothiocyanate"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "5470-11-1": {
+  "categories": [
+   "inorganic-compounds"
+  ],
+  "chemical_class": "Inorganic compound",
+  "tags": [],
+  "synonyms": [
+   "NH2OH.HCl"
+  ],
+  "source": "structure",
+  "mixture": false
+ },
+ "5470-96-2": {
+  "categories": [
+   "heterocyclic-compounds",
+   "carbonyl-compounds"
+  ],
+  "chemical_class": "Heteroaromatic aldehyde",
+  "tags": [
+   "aldehyde",
+   "heteroaromatic"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "551-06-4": {
+  "categories": [
+   "isocyanates-isothiocyanates",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic isothiocyanate",
+  "tags": [
+   "isothiocyanate"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "551-93-9": {
+  "categories": [
+   "carbonyl-compounds",
+   "bb-amines",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic ketone",
+  "tags": [
+   "aniline",
+   "ketone"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "5513-19-4": {
+  "categories": [
+   "unclassified"
+  ],
+  "chemical_class": null,
+  "tags": [],
+  "synonyms": [],
+  "source": "unclassified",
+  "mixture": false
+ },
+ "552-16-9": {
+  "categories": [
+   "aromatic-compounds",
+   "carboxylic-acids"
+  ],
+  "chemical_class": "Aromatic carboxylic acid",
+  "tags": [
+   "carboxylic acid",
+   "nitro"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "552-89-6": {
+  "categories": [
+   "carbonyl-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aldehyde",
+  "tags": [
+   "aldehyde",
+   "nitro"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "554-00-7": {
+  "categories": [
+   "bb-amines",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aniline",
+  "tags": [
+   "aniline",
+   "chlorinated"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "555-16-8": {
+  "categories": [
+   "carbonyl-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aldehyde",
+  "tags": [
+   "aldehyde",
+   "nitro"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "555-68-0": {
+  "categories": [
+   "aromatic-compounds",
+   "carboxylic-acids"
+  ],
+  "chemical_class": "Aromatic carboxylic acid",
+  "tags": [
+   "carboxylic acid",
+   "nitro"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "55513-16-1": {
+  "categories": [
+   "heterocyclic-compounds",
+   "bb-amines",
+   "halogenated-compounds"
+  ],
+  "chemical_class": "Heterocyclic amine",
+  "tags": [
+   "fluorinated",
+   "secondary amine",
+   "tertiary amine",
+   "trifluoromethyl"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "56-40-6": {
+  "categories": [
+   "bb-amines",
+   "carboxylic-acids"
+  ],
+  "chemical_class": "Aliphatic carboxylic acid",
+  "tags": [
+   "carboxylic acid",
+   "primary amine"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "563-41-7": {
+  "categories": [
+   "inorganic-compounds"
+  ],
+  "chemical_class": "Inorganic compound",
+  "tags": [],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "56553-60-7": {
+  "categories": [
+   "reducing-agents"
+  ],
+  "chemical_class": "Aliphatic compound",
+  "tags": [
+   "hydride",
+   "reductive amination"
+  ],
+  "synonyms": [
+   "STAB",
+   "NaBH(OAc)3"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "56908-88-4": {
+  "categories": [
+   "halogenated-compounds",
+   "aromatic-compounds",
+   "alkylating-agents"
+  ],
+  "chemical_class": "Aromatic benzylic halide",
+  "tags": [
+   "benzylic halide",
+   "brominated"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "57-13-6": {
+  "categories": [
+   "inorganic-compounds"
+  ],
+  "chemical_class": "Inorganic compound",
+  "tags": [],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "57260-71-6": {
+  "categories": [
+   "heterocyclic-compounds",
+   "bb-amines"
+  ],
+  "chemical_class": "Heterocyclic amine",
+  "tags": [
+   "Boc-protected",
+   "secondary amine"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "579-74-8": {
+  "categories": [
+   "carbonyl-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic ketone",
+  "tags": [
+   "ether",
+   "ketone"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "584-08-7": {
+  "categories": [
+   "inorganic-bases",
+   "metal-salts"
+  ],
+  "chemical_class": "Metal salt",
+  "tags": [
+   "base",
+   "carbonate"
+  ],
+  "synonyms": [
+   "K2CO3",
+   "Potash"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "585-76-2": {
+  "categories": [
+   "halogenated-compounds",
+   "aromatic-compounds",
+   "carboxylic-acids"
+  ],
+  "chemical_class": "Aromatic carboxylic acid",
+  "tags": [
+   "brominated",
+   "carboxylic acid"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "586-37-8": {
+  "categories": [
+   "carbonyl-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic ketone",
+  "tags": [
+   "ether",
+   "ketone"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "587-04-2": {
+  "categories": [
+   "carbonyl-compounds",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aldehyde",
+  "tags": [
+   "aldehyde",
+   "chlorinated"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "589-15-1": {
+  "categories": [
+   "halogenated-compounds",
+   "aromatic-compounds",
+   "alkylating-agents"
+  ],
+  "chemical_class": "Aromatic benzylic halide",
+  "tags": [
+   "benzylic halide",
+   "brominated"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "5891-21-4": {
+  "categories": [
+   "carbonyl-compounds",
+   "halogenated-compounds"
+  ],
+  "chemical_class": "Aliphatic ketone",
+  "tags": [
+   "chlorinated",
+   "ketone"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "590-28-3": {
+  "categories": [
+   "metal-salts"
+  ],
+  "chemical_class": "Metal salt",
+  "tags": [],
+  "synonyms": [
+   "KOCN"
+  ],
+  "source": "structure",
+  "mixture": false
+ },
+ "591-27-5": {
+  "categories": [
+   "bb-amines",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aniline",
+  "tags": [
+   "aniline",
+   "phenol"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "591-31-1": {
+  "categories": [
+   "carbonyl-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aldehyde",
+  "tags": [
+   "aldehyde",
+   "ether"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "598-21-0": {
+  "categories": [
+   "acylating-agents",
+   "alkylating-agents"
+  ],
+  "chemical_class": "Aliphatic acid chloride",
+  "tags": [
+   "acid bromide",
+   "brominated",
+   "acid chloride"
+  ],
+  "synonyms": [],
+  "source": "curated",
+  "mixture": false
+ },
+ "60-29-7": {
+  "categories": [
+   "non-polar-solvents"
+  ],
+  "chemical_class": "Aliphatic ether",
+  "tags": [
+   "solvent",
+   "ether"
+  ],
+  "synonyms": [
+   "Et2O",
+   "Ether",
+   "Ethyl ether"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "603-35-0": {
+  "categories": [
+   "ligands",
+   "organic-reagents"
+  ],
+  "chemical_class": "Aromatic compound",
+  "tags": [
+   "phosphine",
+   "Wittig / Mitsunobu"
+  ],
+  "synonyms": [
+   "PPh3",
+   "TPP"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "603-85-0": {
+  "categories": [
+   "bb-amines",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aniline",
+  "tags": [
+   "aniline",
+   "nitro",
+   "phenol"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "60481-51-8": {
+  "categories": [
+   "bb-amines",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic hydrazine",
+  "tags": [
+   "aniline",
+   "hydrazine",
+   "hydrochloride salt"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "608-05-9": {
+  "categories": [
+   "heterocyclic-compounds",
+   "carbonyl-compounds",
+   "carboxylic-acid-derivatives"
+  ],
+  "chemical_class": "Heterocyclic amide",
+  "tags": [
+   "amide",
+   "ketone"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "608-27-5": {
+  "categories": [
+   "bb-amines",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aniline",
+  "tags": [
+   "aniline",
+   "chlorinated"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "609-15-4": {
+  "categories": [
+   "carbonyl-compounds",
+   "carboxylic-acid-derivatives",
+   "halogenated-compounds",
+   "alkylating-agents"
+  ],
+  "chemical_class": "Aliphatic ester",
+  "tags": [
+   "chlorinated",
+   "ester",
+   "ketone"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "609-99-4": {
+  "categories": [
+   "aromatic-compounds",
+   "carboxylic-acids"
+  ],
+  "chemical_class": "Aromatic carboxylic acid",
+  "tags": [
+   "carboxylic acid",
+   "nitro",
+   "phenol"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "61-54-1": {
+  "categories": [
+   "heterocyclic-compounds",
+   "bb-amines"
+  ],
+  "chemical_class": "Heteroaromatic amine",
+  "tags": [
+   "heteroaromatic",
+   "primary amine"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "611-09-6": {
+  "categories": [
+   "heterocyclic-compounds",
+   "carbonyl-compounds",
+   "carboxylic-acid-derivatives"
+  ],
+  "chemical_class": "Heterocyclic amide",
+  "tags": [
+   "amide",
+   "ketone",
+   "nitro"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "611-17-6": {
+  "categories": [
+   "halogenated-compounds",
+   "aromatic-compounds",
+   "alkylating-agents"
+  ],
+  "chemical_class": "Aromatic benzylic halide",
+  "tags": [
+   "benzylic halide",
+   "brominated",
+   "chlorinated"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "611-73-4": {
+  "categories": [
+   "carbonyl-compounds",
+   "aromatic-compounds",
+   "carboxylic-acids"
+  ],
+  "chemical_class": "Aromatic carboxylic acid",
+  "tags": [
+   "carboxylic acid",
+   "ketone"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "612-17-9": {
+  "categories": [
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic hydrocarbon",
+  "tags": [],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "613-45-6": {
+  "categories": [
+   "carbonyl-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aldehyde",
+  "tags": [
+   "aldehyde",
+   "ether"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "615-36-1": {
+  "categories": [
+   "bb-amines",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aniline",
+  "tags": [
+   "aniline",
+   "brominated"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "615-43-0": {
+  "categories": [
+   "bb-amines",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aniline",
+  "tags": [
+   "aniline",
+   "iodinated"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "6153-56-6": {
+  "categories": [
+   "carboxylic-acids"
+  ],
+  "chemical_class": "Aliphatic carboxylic acid",
+  "tags": [
+   "carboxylic acid",
+   "hydrate"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "616-79-5": {
+  "categories": [
+   "bb-amines",
+   "aromatic-compounds",
+   "carboxylic-acids"
+  ],
+  "chemical_class": "Aromatic carboxylic acid",
+  "tags": [
+   "aniline",
+   "carboxylic acid",
+   "nitro"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "6160-65-2": {
+  "categories": [
+   "acylating-agents"
+  ],
+  "chemical_class": "Heteroaromatic compound",
+  "tags": [
+   "thiocarbonyl transfer",
+   "heteroaromatic"
+  ],
+  "synonyms": [
+   "TCDI",
+   "Thio-CDI",
+   "1,1'-Thiocarbonyldiimidazole"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "617-35-6": {
+  "categories": [
+   "carbonyl-compounds",
+   "carboxylic-acid-derivatives"
+  ],
+  "chemical_class": "Aliphatic ester",
+  "tags": [
+   "ester",
+   "ketone"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "617-52-7": {
+  "categories": [
+   "carboxylic-acid-derivatives"
+  ],
+  "chemical_class": "Aliphatic ester",
+  "tags": [
+   "ester"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "619-41-0": {
+  "categories": [
+   "carbonyl-compounds",
+   "halogenated-compounds",
+   "aromatic-compounds",
+   "alkylating-agents"
+  ],
+  "chemical_class": "Aromatic ketone",
+  "tags": [
+   "brominated",
+   "ketone"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "619-65-8": {
+  "categories": [
+   "carboxylic-acid-derivatives",
+   "aromatic-compounds",
+   "carboxylic-acids"
+  ],
+  "chemical_class": "Aromatic carboxylic acid",
+  "tags": [
+   "carboxylic acid",
+   "nitrile"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "619-66-9": {
+  "categories": [
+   "carbonyl-compounds",
+   "aromatic-compounds",
+   "carboxylic-acids"
+  ],
+  "chemical_class": "Aromatic carboxylic acid",
+  "tags": [
+   "aldehyde",
+   "carboxylic acid"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "619-67-0": {
+  "categories": [
+   "bb-amines",
+   "aromatic-compounds",
+   "carboxylic-acids"
+  ],
+  "chemical_class": "Aromatic carboxylic acid",
+  "tags": [
+   "aniline",
+   "carboxylic acid",
+   "hydrazine"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "62-23-7": {
+  "categories": [
+   "aromatic-compounds",
+   "carboxylic-acids"
+  ],
+  "chemical_class": "Aromatic carboxylic acid",
+  "tags": [
+   "carboxylic acid",
+   "nitro"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "62-52-3": {
+  "categories": [
+   "unclassified"
+  ],
+  "chemical_class": null,
+  "tags": [],
+  "synonyms": [],
+  "source": "unclassified",
+  "mixture": false
+ },
+ "62-56-6": {
+  "categories": [
+   "inorganic-compounds"
+  ],
+  "chemical_class": "Inorganic compound",
+  "tags": [],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "620-20-2": {
+  "categories": [
+   "halogenated-compounds",
+   "aromatic-compounds",
+   "alkylating-agents"
+  ],
+  "chemical_class": "Aromatic benzylic halide",
+  "tags": [
+   "benzylic halide",
+   "chlorinated"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "622-47-9": {
+  "categories": [
+   "aromatic-compounds",
+   "carboxylic-acids"
+  ],
+  "chemical_class": "Aromatic carboxylic acid",
+  "tags": [
+   "carboxylic acid"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "622-58-2": {
+  "categories": [
+   "isocyanates-isothiocyanates",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic isocyanate",
+  "tags": [
+   "isocyanate"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "622-59-3": {
+  "categories": [
+   "isocyanates-isothiocyanates",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic isothiocyanate",
+  "tags": [
+   "isothiocyanate"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "622-95-7": {
+  "categories": [
+   "halogenated-compounds",
+   "aromatic-compounds",
+   "alkylating-agents"
+  ],
+  "chemical_class": "Aromatic benzylic halide",
+  "tags": [
+   "benzylic halide",
+   "brominated",
+   "chlorinated"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "623-00-7": {
+  "categories": [
+   "carboxylic-acid-derivatives",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic nitrile",
+  "tags": [
+   "brominated",
+   "nitrile"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "6277-38-9": {
+  "categories": [
+   "carbonyl-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic ketone",
+  "tags": [
+   "ether",
+   "ketone",
+   "nitro"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "6287-38-3": {
+  "categories": [
+   "carbonyl-compounds",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aldehyde",
+  "tags": [
+   "aldehyde",
+   "chlorinated"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "6290-05-7": {
+  "categories": [
+   "bb-amines",
+   "carboxylic-acid-derivatives"
+  ],
+  "chemical_class": "Aliphatic ester",
+  "tags": [
+   "ester",
+   "secondary amine"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "63-91-2": {
+  "categories": [
+   "bb-amines",
+   "aromatic-compounds",
+   "carboxylic-acids"
+  ],
+  "chemical_class": "Aromatic carboxylic acid",
+  "tags": [
+   "carboxylic acid",
+   "chiral",
+   "primary amine"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "6303-21-5": {
+  "categories": [
+   "inorganic-acids",
+   "reducing-agents"
+  ],
+  "chemical_class": "Inorganic compound",
+  "tags": [
+   "acid"
+  ],
+  "synonyms": [
+   "H3PO2",
+   "Hypophosphorous acid",
+   "Phosphinic acid"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "63069-50-1": {
+  "categories": [
+   "bb-amines",
+   "carboxylic-acid-derivatives",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic nitrile",
+  "tags": [
+   "aniline",
+   "fluorinated",
+   "nitrile"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "631-61-8": {
+  "categories": [
+   "non-metal-salts"
+  ],
+  "chemical_class": "Aliphatic carboxylate salt",
+  "tags": [
+   "carboxylate salt"
+  ],
+  "synonyms": [
+   "NH4OAc"
+  ],
+  "source": "structure",
+  "mixture": false
+ },
+ "63231-67-4": {
+  "categories": [
+   "silica-gel"
+  ],
+  "chemical_class": null,
+  "tags": [
+   "chromatography"
+  ],
+  "synonyms": [
+   "SiO2",
+   "Silica"
+  ],
+  "source": "curated",
+  "mixture": true
+ },
+ "6334-18-5": {
+  "categories": [
+   "carbonyl-compounds",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aldehyde",
+  "tags": [
+   "aldehyde",
+   "chlorinated"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "634-93-5": {
+  "categories": [
+   "bb-amines",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aniline",
+  "tags": [
+   "aniline",
+   "chlorinated"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "634-97-9": {
+  "categories": [
+   "heterocyclic-compounds",
+   "carboxylic-acids"
+  ],
+  "chemical_class": "Heteroaromatic carboxylic acid",
+  "tags": [
+   "carboxylic acid",
+   "heteroaromatic"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "636-30-6": {
+  "categories": [
+   "bb-amines",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aniline",
+  "tags": [
+   "aniline",
+   "chlorinated"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "636-99-7": {
+  "categories": [
+   "bb-amines",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic hydrazine",
+  "tags": [
+   "aniline",
+   "hydrazine",
+   "hydrochloride salt",
+   "nitro"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "638-07-3": {
+  "categories": [
+   "carbonyl-compounds",
+   "carboxylic-acid-derivatives",
+   "halogenated-compounds",
+   "alkylating-agents"
+  ],
+  "chemical_class": "Aliphatic ester",
+  "tags": [
+   "chlorinated",
+   "ester",
+   "ketone"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "64-19-7": {
+  "categories": [
+   "organic-acids",
+   "carboxylic-acids",
+   "polar-protic-solvents"
+  ],
+  "chemical_class": "Aliphatic carboxylic acid",
+  "tags": [
+   "solvent",
+   "carboxylic acid"
+  ],
+  "synonyms": [
+   "AcOH",
+   "Glacial acetic acid",
+   "Ethanoic acid"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "645-12-5": {
+  "categories": [
+   "heterocyclic-compounds",
+   "carboxylic-acids"
+  ],
+  "chemical_class": "Heteroaromatic carboxylic acid",
+  "tags": [
+   "carboxylic acid",
+   "heteroaromatic",
+   "nitro"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "65-45-2": {
+  "categories": [
+   "carboxylic-acid-derivatives",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic amide",
+  "tags": [
+   "amide",
+   "phenol"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "65-85-0": {
+  "categories": [
+   "aromatic-compounds",
+   "carboxylic-acids"
+  ],
+  "chemical_class": "Aromatic carboxylic acid",
+  "tags": [
+   "carboxylic acid"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "6553-96-4": {
+  "categories": [
+   "halogenated-compounds",
+   "aromatic-compounds",
+   "sulfonylating-agents"
+  ],
+  "chemical_class": "Aromatic sulfonyl chloride",
+  "tags": [
+   "chlorinated",
+   "sulfonyl chloride"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "657-06-7": {
+  "categories": [
+   "halogenated-compounds",
+   "aromatic-compounds",
+   "carboxylic-acids"
+  ],
+  "chemical_class": "Aromatic carboxylic acid",
+  "tags": [
+   "carboxylic acid",
+   "chlorinated",
+   "fluorinated",
+   "trifluoromethyl"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "65796-00-1": {
+  "categories": [
+   "halogenated-compounds",
+   "aromatic-compounds",
+   "alkylating-agents"
+  ],
+  "chemical_class": "Aromatic benzylic halide",
+  "tags": [
+   "benzylic halide",
+   "chlorinated",
+   "ether",
+   "fluorinated",
+   "trifluoromethyl"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "659-28-9": {
+  "categories": [
+   "carbonyl-compounds",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aldehyde",
+  "tags": [
+   "aldehyde",
+   "ether",
+   "fluorinated",
+   "trifluoromethyl"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "66-77-3": {
+  "categories": [
+   "carbonyl-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aldehyde",
+  "tags": [
+   "aldehyde"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "6609-56-9": {
+  "categories": [
+   "carboxylic-acid-derivatives",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic nitrile",
+  "tags": [
+   "ether",
+   "nitrile"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "662138-96-7": {
+  "categories": [
+   "heterocyclic-compounds",
+   "cross-coupling-reagents"
+  ],
+  "chemical_class": "Heteroaromatic boronic acid/ester",
+  "tags": [
+   "boronic acid",
+   "heteroaromatic"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "6630-33-7": {
+  "categories": [
+   "carbonyl-compounds",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aldehyde",
+  "tags": [
+   "aldehyde",
+   "brominated"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "6674-22-2": {
+  "categories": [
+   "organic-bases"
+  ],
+  "chemical_class": "Heterocyclic compound",
+  "tags": [
+   "base",
+   "amidine"
+  ],
+  "synonyms": [
+   "DBU",
+   "1,8-Diazabicyclo[5.4.0]undec-7-ene"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "67-63-0": {
+  "categories": [
+   "polar-protic-solvents"
+  ],
+  "chemical_class": "Aliphatic alcohol",
+  "tags": [
+   "solvent",
+   "alcohol"
+  ],
+  "synonyms": [
+   "IPA",
+   "2-Propanol",
+   "Isopropyl alcohol"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "67-64-1": {
+  "categories": [
+   "polar-aprotic-solvents"
+  ],
+  "chemical_class": "Aliphatic ketone",
+  "tags": [
+   "solvent",
+   "ketone"
+  ],
+  "synonyms": [
+   "Propanone"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "67-66-3": {
+  "categories": [
+   "halogenated-solvents"
+  ],
+  "chemical_class": "Aliphatic compound",
+  "tags": [
+   "solvent",
+   "chlorinated"
+  ],
+  "synonyms": [
+   "CHCl3",
+   "Trichloromethane"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "67-68-5": {
+  "categories": [
+   "polar-aprotic-solvents"
+  ],
+  "chemical_class": "Aliphatic compound",
+  "tags": [
+   "solvent"
+  ],
+  "synonyms": [
+   "DMSO"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "6746-94-7": {
+  "categories": [
+   "alkynes"
+  ],
+  "chemical_class": "Alicyclic alkyne",
+  "tags": [
+   "terminal alkyne"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "676-58-4": {
+  "categories": [
+   "organometallic-reagents"
+  ],
+  "chemical_class": "Aliphatic compound",
+  "tags": [
+   "Grignard reagent",
+   "air sensitive",
+   "hydrochloride salt"
+  ],
+  "synonyms": [
+   "MeMgCl"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "68-12-2": {
+  "categories": [
+   "polar-aprotic-solvents"
+  ],
+  "chemical_class": "Aliphatic aldehyde",
+  "tags": [
+   "solvent",
+   "aldehyde"
+  ],
+  "synonyms": [
+   "DMF",
+   "N,N-Dimethylformamide"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "69-72-7": {
+  "categories": [
+   "aromatic-compounds",
+   "carboxylic-acids"
+  ],
+  "chemical_class": "Aromatic carboxylic acid",
+  "tags": [
+   "carboxylic acid",
+   "phenol"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "698-63-5": {
+  "categories": [
+   "heterocyclic-compounds",
+   "carbonyl-compounds"
+  ],
+  "chemical_class": "Heteroaromatic aldehyde",
+  "tags": [
+   "aldehyde",
+   "heteroaromatic",
+   "nitro"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "705-15-7": {
+  "categories": [
+   "carbonyl-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic ketone",
+  "tags": [
+   "ether",
+   "ketone",
+   "phenol"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "705-29-3": {
+  "categories": [
+   "halogenated-compounds",
+   "aromatic-compounds",
+   "alkylating-agents"
+  ],
+  "chemical_class": "Aromatic benzylic halide",
+  "tags": [
+   "benzylic halide",
+   "chlorinated",
+   "fluorinated",
+   "trifluoromethyl"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "7087-68-5": {
+  "categories": [
+   "organic-bases",
+   "base-amines"
+  ],
+  "chemical_class": "Aliphatic amine",
+  "tags": [
+   "base",
+   "tertiary amine"
+  ],
+  "synonyms": [
+   "DIPEA",
+   "DIEA",
+   "Hunig's base",
+   "iPr2NEt"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "70931-28-1": {
+  "categories": [
+   "heterocyclic-compounds",
+   "bb-amines",
+   "halogenated-compounds"
+  ],
+  "chemical_class": "Heterocyclic amine",
+  "tags": [
+   "fluorinated",
+   "secondary amine",
+   "tertiary amine"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "71-43-2": {
+  "categories": [
+   "non-polar-solvents"
+  ],
+  "chemical_class": "Aromatic hydrocarbon",
+  "tags": [
+   "solvent",
+   "hydrocarbon"
+  ],
+  "synonyms": [
+   "C6H6"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "7144-05-0": {
+  "categories": [
+   "heterocyclic-compounds",
+   "bb-amines"
+  ],
+  "chemical_class": "Heterocyclic amine",
+  "tags": [
+   "primary amine",
+   "secondary amine"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "73789-86-3": {
+  "categories": [
+   "halogenated-compounds",
+   "aromatic-compounds",
+   "alkylating-agents"
+  ],
+  "chemical_class": "Aromatic benzylic halide",
+  "tags": [
+   "benzylic halide",
+   "brominated"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "74-88-4": {
+  "categories": [
+   "alkylating-agents"
+  ],
+  "chemical_class": "Aliphatic alkyl halide",
+  "tags": [
+   "methylating agent",
+   "iodinated"
+  ],
+  "synonyms": [
+   "MeI",
+   "Iodomethane"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "74-89-5": {
+  "categories": [
+   "base-amines",
+   "bb-amines"
+  ],
+  "chemical_class": "Aliphatic amine",
+  "tags": [
+   "primary amine"
+  ],
+  "synonyms": [
+   "MeNH2",
+   "Aminomethane"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "74-96-4": {
+  "categories": [
+   "alkylating-agents"
+  ],
+  "chemical_class": "Aliphatic alkyl halide",
+  "tags": [
+   "brominated"
+  ],
+  "synonyms": [
+   "EtBr",
+   "Bromoethane"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "7439-89-6": {
+  "categories": [
+   "reducing-agents",
+   "inorganic-compounds"
+  ],
+  "chemical_class": "Element",
+  "tags": [
+   "metal powder"
+  ],
+  "synonyms": [
+   "Fe",
+   "Iron powder"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "7440-05-3": {
+  "categories": [
+   "metal-catalysts"
+  ],
+  "chemical_class": null,
+  "tags": [
+   "palladium",
+   "heterogeneous",
+   "hydrogenation"
+  ],
+  "synonyms": [
+   "Pd/C",
+   "Palladium on carbon",
+   "Pd-C"
+  ],
+  "source": "curated",
+  "mixture": true
+ },
+ "75-04-7": {
+  "categories": [
+   "base-amines",
+   "bb-amines"
+  ],
+  "chemical_class": "Aliphatic amine",
+  "tags": [
+   "primary amine"
+  ],
+  "synonyms": [
+   "EtNH2",
+   "Aminoethane"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "75-05-8": {
+  "categories": [
+   "polar-aprotic-solvents"
+  ],
+  "chemical_class": "Aliphatic nitrile",
+  "tags": [
+   "solvent",
+   "nitrile"
+  ],
+  "synonyms": [
+   "MeCN",
+   "ACN",
+   "Methyl cyanide"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "75-07-0": {
+  "categories": [
+   "carbonyl-compounds"
+  ],
+  "chemical_class": "Aliphatic aldehyde",
+  "tags": [
+   "aldehyde"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "75-09-2": {
+  "categories": [
+   "halogenated-solvents"
+  ],
+  "chemical_class": "Aliphatic compound",
+  "tags": [
+   "solvent",
+   "chlorinated"
+  ],
+  "synonyms": [
+   "DCM",
+   "Methylene chloride",
+   "CH2Cl2"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "75-16-1": {
+  "categories": [
+   "organometallic-reagents"
+  ],
+  "chemical_class": "Aliphatic compound",
+  "tags": [
+   "Grignard reagent",
+   "air sensitive",
+   "hydrobromide salt"
+  ],
+  "synonyms": [
+   "MeMgBr"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "75-36-5": {
+  "categories": [
+   "acylating-agents"
+  ],
+  "chemical_class": "Aliphatic acid chloride",
+  "tags": [
+   "acid chloride",
+   "moisture sensitive",
+   "chlorinated"
+  ],
+  "synonyms": [
+   "AcCl",
+   "Ethanoyl chloride"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "75-52-5": {
+  "categories": [
+   "polar-aprotic-solvents"
+  ],
+  "chemical_class": "Aliphatic nitro compound",
+  "tags": [
+   "solvent",
+   "nitro"
+  ],
+  "synonyms": [
+   "MeNO2"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "75-65-0": {
+  "categories": [
+   "polar-protic-solvents"
+  ],
+  "chemical_class": "Aliphatic alcohol",
+  "tags": [
+   "solvent",
+   "alcohol"
+  ],
+  "synonyms": [
+   "t-BuOH",
+   "tert-Butyl alcohol",
+   "2-Methyl-2-propanol"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "75-91-2": {
+  "categories": [
+   "oxidizing-agents"
+  ],
+  "chemical_class": "Aliphatic compound",
+  "tags": [
+   "oxidant",
+   "peroxide"
+  ],
+  "synonyms": [
+   "TBHP"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "7553-56-2": {
+  "categories": [
+   "halogenating-agents",
+   "inorganic-compounds"
+  ],
+  "chemical_class": "Inorganic compound",
+  "tags": [
+   "iodinating agent"
+  ],
+  "synonyms": [
+   "I2"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "7558-80-7": {
+  "categories": [
+   "metal-salts"
+  ],
+  "chemical_class": "Metal salt",
+  "tags": [],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "76-05-1": {
+  "categories": [
+   "organic-acids",
+   "carboxylic-acids",
+   "deprotection-reagents"
+  ],
+  "chemical_class": "Aliphatic carboxylic acid",
+  "tags": [
+   "acid",
+   "fluorinated",
+   "Boc removal",
+   "carboxylic acid",
+   "trifluoromethyl"
+  ],
+  "synonyms": [
+   "TFA",
+   "Trifluoroacetic acid"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "7631-94-9": {
+  "categories": [
+   "metal-salts"
+  ],
+  "chemical_class": "Metal salt",
+  "tags": [],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "7632-00-0": {
+  "categories": [
+   "metal-salts"
+  ],
+  "chemical_class": "Metal salt",
+  "tags": [],
+  "synonyms": [
+   "NaNO2"
+  ],
+  "source": "structure",
+  "mixture": false
+ },
+ "7646-69-7": {
+  "categories": [
+   "inorganic-bases"
+  ],
+  "chemical_class": "Element",
+  "tags": [
+   "base",
+   "hydride",
+   "moisture sensitive"
+  ],
+  "synonyms": [
+   "NaH"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "7646-85-7": {
+  "categories": [
+   "metal-catalysts",
+   "metal-salts"
+  ],
+  "chemical_class": "Metal salt",
+  "tags": [
+   "Lewis acid"
+  ],
+  "synonyms": [
+   "ZnCl2"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "7647-01-0": {
+  "categories": [
+   "inorganic-acids"
+  ],
+  "chemical_class": "Inorganic compound",
+  "tags": [
+   "acid",
+   "solution"
+  ],
+  "synonyms": [
+   "HCl",
+   "Hydrochloric acid"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "7647-14-5": {
+  "categories": [
+   "metal-salts"
+  ],
+  "chemical_class": "Metal salt",
+  "tags": [],
+  "synonyms": [
+   "NaCl",
+   "Brine salt"
+  ],
+  "source": "structure",
+  "mixture": false
+ },
+ "766-80-3": {
+  "categories": [
+   "halogenated-compounds",
+   "aromatic-compounds",
+   "alkylating-agents"
+  ],
+  "chemical_class": "Aromatic benzylic halide",
+  "tags": [
+   "benzylic halide",
+   "brominated",
+   "chlorinated"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "766-96-1": {
+  "categories": [
+   "alkynes",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic alkyne",
+  "tags": [
+   "brominated",
+   "terminal alkyne"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "766-97-2": {
+  "categories": [
+   "alkynes",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic alkyne",
+  "tags": [
+   "terminal alkyne"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "766-98-3": {
+  "categories": [
+   "alkynes",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic alkyne",
+  "tags": [
+   "fluorinated",
+   "terminal alkyne"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "7664-38-2": {
+  "categories": [
+   "inorganic-acids"
+  ],
+  "chemical_class": "Inorganic compound",
+  "tags": [
+   "acid"
+  ],
+  "synonyms": [
+   "H3PO4",
+   "Phosphoric acid"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "7677-24-9": {
+  "categories": [
+   "organic-reagents"
+  ],
+  "chemical_class": "Aliphatic nitrile",
+  "tags": [
+   "cyanide source",
+   "silyl",
+   "nitrile"
+  ],
+  "synonyms": [
+   "TMSCN"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "768-60-5": {
+  "categories": [
+   "alkynes",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic alkyne",
+  "tags": [
+   "ether",
+   "terminal alkyne"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "768-94-5": {
+  "categories": [
+   "bb-amines"
+  ],
+  "chemical_class": "Alicyclic amine",
+  "tags": [
+   "primary amine"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "7681-11-0": {
+  "categories": [
+   "metal-salts"
+  ],
+  "chemical_class": "Metal salt",
+  "tags": [],
+  "synonyms": [
+   "KI"
+  ],
+  "source": "structure",
+  "mixture": false
+ },
+ "7681-65-4": {
+  "categories": [
+   "metal-catalysts",
+   "cross-coupling-reagents",
+   "metal-salts"
+  ],
+  "chemical_class": "Metal salt",
+  "tags": [
+   "copper",
+   "click chemistry"
+  ],
+  "synonyms": [
+   "CuI",
+   "Copper(I) iodide",
+   "Cuprous iodide"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "769-42-6": {
+  "categories": [
+   "heterocyclic-compounds",
+   "carboxylic-acid-derivatives"
+  ],
+  "chemical_class": "Heterocyclic amide",
+  "tags": [
+   "amide"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "769-92-6": {
+  "categories": [
+   "bb-amines",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aniline",
+  "tags": [
+   "aniline"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "77-78-1": {
+  "categories": [
+   "alkylating-agents"
+  ],
+  "chemical_class": "Aliphatic compound",
+  "tags": [
+   "methylating agent"
+  ],
+  "synonyms": [
+   "DMS",
+   "Me2SO4"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "7705-08-0": {
+  "categories": [
+   "metal-catalysts",
+   "metal-salts"
+  ],
+  "chemical_class": "Metal salt",
+  "tags": [
+   "Lewis acid"
+  ],
+  "synonyms": [
+   "FeCl3",
+   "Ferric chloride"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "7719-09-7": {
+  "categories": [
+   "halogenating-agents"
+  ],
+  "chemical_class": "Inorganic compound",
+  "tags": [
+   "chlorinating agent",
+   "moisture sensitive"
+  ],
+  "synonyms": [
+   "SOCl2"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "7727-21-1": {
+  "categories": [
+   "oxidizing-agents",
+   "metal-salts"
+  ],
+  "chemical_class": "Metal salt",
+  "tags": [
+   "oxidant",
+   "persulfate"
+  ],
+  "synonyms": [
+   "K2S2O8",
+   "Potassium peroxydisulfate"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "7757-82-6": {
+  "categories": [
+   "drying-agents",
+   "metal-salts"
+  ],
+  "chemical_class": "Metal salt",
+  "tags": [
+   "anhydrous"
+  ],
+  "synonyms": [
+   "Na2SO4"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "7758-99-8": {
+  "categories": [
+   "metal-salts"
+  ],
+  "chemical_class": "Metal salt",
+  "tags": [
+   "hydrate"
+  ],
+  "synonyms": [
+   "CuSO4",
+   "CuSO4.5H2O"
+  ],
+  "source": "structure",
+  "mixture": false
+ },
+ "777-44-6": {
+  "categories": [
+   "halogenated-compounds",
+   "aromatic-compounds",
+   "sulfonylating-agents"
+  ],
+  "chemical_class": "Aromatic sulfonyl chloride",
+  "tags": [
+   "chlorinated",
+   "fluorinated",
+   "sulfonyl chloride",
+   "trifluoromethyl"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "7772-98-7": {
+  "categories": [
+   "reducing-agents",
+   "metal-salts"
+  ],
+  "chemical_class": "Metal salt",
+  "tags": [
+   "quench"
+  ],
+  "synonyms": [
+   "Na2S2O3",
+   "Hypo"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "7775-14-6": {
+  "categories": [
+   "reducing-agents",
+   "metal-salts"
+  ],
+  "chemical_class": "Metal salt",
+  "tags": [
+   "reductant"
+  ],
+  "synonyms": [
+   "Na2S2O4",
+   "Sodium hydrosulfite"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "7778-53-2": {
+  "categories": [
+   "inorganic-bases",
+   "metal-salts"
+  ],
+  "chemical_class": "Metal salt",
+  "tags": [
+   "base",
+   "phosphate"
+  ],
+  "synonyms": [
+   "K3PO4",
+   "Tripotassium phosphate"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "7789-45-9": {
+  "categories": [
+   "halogenating-agents",
+   "metal-salts"
+  ],
+  "chemical_class": "Metal salt",
+  "tags": [
+   "brominating agent"
+  ],
+  "synonyms": [
+   "CuBr2"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "7789-60-8": {
+  "categories": [
+   "halogenating-agents"
+  ],
+  "chemical_class": "Inorganic compound",
+  "tags": [
+   "brominating agent",
+   "moisture sensitive"
+  ],
+  "synonyms": [
+   "PBr3"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "7791-13-1": {
+  "categories": [
+   "metal-salts",
+   "indicators"
+  ],
+  "chemical_class": "Metal salt",
+  "tags": [
+   "hydrate",
+   "moisture indicator"
+  ],
+  "synonyms": [
+   "CoCl2.6H2O"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "7803-57-8": {
+  "categories": [
+   "reducing-agents"
+  ],
+  "chemical_class": "Inorganic compound",
+  "tags": [
+   "hydrazine",
+   "hydrate"
+  ],
+  "synonyms": [
+   "N2H4.H2O"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "79-11-8": {
+  "categories": [
+   "halogenated-compounds",
+   "carboxylic-acids",
+   "alkylating-agents"
+  ],
+  "chemical_class": "Aliphatic carboxylic acid",
+  "tags": [
+   "carboxylic acid",
+   "chlorinated"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "79-19-6": {
+  "categories": [
+   "inorganic-compounds"
+  ],
+  "chemical_class": "Inorganic compound",
+  "tags": [],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "79-37-8": {
+  "categories": [
+   "acylating-agents",
+   "halogenating-agents"
+  ],
+  "chemical_class": "Aliphatic acid chloride",
+  "tags": [
+   "acid chloride",
+   "moisture sensitive",
+   "chlorinated"
+  ],
+  "synonyms": [
+   "(COCl)2"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "79099-07-3": {
+  "categories": [
+   "heterocyclic-compounds",
+   "carbonyl-compounds"
+  ],
+  "chemical_class": "Heterocyclic ketone",
+  "tags": [
+   "Boc-protected",
+   "ketone"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "791-28-6": {
+  "categories": [
+   "organic-reagents"
+  ],
+  "chemical_class": "Aromatic compound",
+  "tags": [
+   "phosphine oxide"
+  ],
+  "synonyms": [
+   "TPPO",
+   "Ph3PO"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "8004-13-5": {
+  "categories": [
+   "unclassified"
+  ],
+  "chemical_class": null,
+  "tags": [],
+  "synonyms": [],
+  "source": "unclassified",
+  "mixture": true
+ },
+ "8032-32-4": {
+  "categories": [
+   "non-polar-solvents"
+  ],
+  "chemical_class": null,
+  "tags": [
+   "solvent",
+   "hydrocarbon",
+   "mixture"
+  ],
+  "synonyms": [
+   "Pet ether",
+   "PE",
+   "Petroleum spirit",
+   "Light petroleum"
+  ],
+  "source": "curated",
+  "mixture": true
+ },
+ "81-07-2": {
+  "categories": [
+   "heterocyclic-compounds",
+   "carboxylic-acid-derivatives"
+  ],
+  "chemical_class": "Heterocyclic sulfonamide",
+  "tags": [
+   "amide",
+   "sulfonamide"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "821-48-7": {
+  "categories": [
+   "bb-amines",
+   "halogenated-compounds"
+  ],
+  "chemical_class": "Aliphatic amine",
+  "tags": [
+   "chlorinated",
+   "hydrochloride salt",
+   "secondary amine"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "829-20-9": {
+  "categories": [
+   "carbonyl-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic ketone",
+  "tags": [
+   "ether",
+   "ketone"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "83-38-5": {
+  "categories": [
+   "carbonyl-compounds",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aldehyde",
+  "tags": [
+   "aldehyde",
+   "chlorinated"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "84-58-2": {
+  "categories": [
+   "oxidizing-agents"
+  ],
+  "chemical_class": "Alicyclic nitrile",
+  "tags": [
+   "oxidant",
+   "quinone",
+   "chlorinated",
+   "ketone",
+   "nitrile"
+  ],
+  "synonyms": [
+   "DDQ"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "85-44-9": {
+  "categories": [
+   "acylating-agents",
+   "carboxylic-acid-derivatives"
+  ],
+  "chemical_class": "Heterocyclic anhydride",
+  "tags": [
+   "anhydride",
+   "ester"
+  ],
+  "synonyms": [],
+  "source": "curated",
+  "mixture": false
+ },
+ "85482-13-9": {
+  "categories": [
+   "halogenated-compounds",
+   "aromatic-compounds",
+   "alkylating-agents"
+  ],
+  "chemical_class": "Aromatic benzylic halide",
+  "tags": [
+   "benzylic halide",
+   "brominated",
+   "chlorinated"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "86-55-5": {
+  "categories": [
+   "aromatic-compounds",
+   "carboxylic-acids"
+  ],
+  "chemical_class": "Aromatic carboxylic acid",
+  "tags": [
+   "carboxylic acid"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "86-74-8": {
+  "categories": [
+   "heterocyclic-compounds"
+  ],
+  "chemical_class": "Heteroaromatic compound",
+  "tags": [
+   "heteroaromatic"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "86318-61-8": {
+  "categories": [
+   "alkynes"
+  ],
+  "chemical_class": "Aliphatic alkyne",
+  "tags": [
+   "silyl",
+   "terminal alkyne"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "865-47-4": {
+  "categories": [
+   "alkoxides",
+   "organic-bases"
+  ],
+  "chemical_class": "Aliphatic compound",
+  "tags": [
+   "base",
+   "moisture sensitive"
+  ],
+  "synonyms": [
+   "KOtBu",
+   "tBuOK",
+   "Potassium t-butoxide"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "87-25-2": {
+  "categories": [
+   "bb-amines",
+   "carboxylic-acid-derivatives",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic ester",
+  "tags": [
+   "aniline",
+   "ester"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "87-51-4": {
+  "categories": [
+   "heterocyclic-compounds",
+   "carboxylic-acids"
+  ],
+  "chemical_class": "Heteroaromatic carboxylic acid",
+  "tags": [
+   "carboxylic acid",
+   "heteroaromatic"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "87-62-7": {
+  "categories": [
+   "bb-amines",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aniline",
+  "tags": [
+   "aniline"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "872-50-4": {
+  "categories": [
+   "polar-aprotic-solvents"
+  ],
+  "chemical_class": "Heterocyclic amide",
+  "tags": [
+   "solvent",
+   "amide"
+  ],
+  "synonyms": [
+   "NMP",
+   "N-Methylpyrrolidone"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "872-85-5": {
+  "categories": [
+   "heterocyclic-compounds",
+   "carbonyl-compounds"
+  ],
+  "chemical_class": "Heteroaromatic aldehyde",
+  "tags": [
+   "aldehyde",
+   "heteroaromatic"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "873-62-1": {
+  "categories": [
+   "carboxylic-acid-derivatives",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic nitrile",
+  "tags": [
+   "nitrile",
+   "phenol"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "874-42-0": {
+  "categories": [
+   "carbonyl-compounds",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aldehyde",
+  "tags": [
+   "aldehyde",
+   "chlorinated"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "874-98-6": {
+  "categories": [
+   "halogenated-compounds",
+   "aromatic-compounds",
+   "alkylating-agents"
+  ],
+  "chemical_class": "Aromatic benzylic halide",
+  "tags": [
+   "benzylic halide",
+   "brominated",
+   "ether"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "875-51-4": {
+  "categories": [
+   "bb-amines",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aniline",
+  "tags": [
+   "aniline",
+   "brominated",
+   "nitro"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "876-02-8": {
+  "categories": [
+   "carbonyl-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic ketone",
+  "tags": [
+   "ketone",
+   "phenol"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "877-22-5": {
+  "categories": [
+   "aromatic-compounds",
+   "carboxylic-acids"
+  ],
+  "chemical_class": "Aromatic carboxylic acid",
+  "tags": [
+   "carboxylic acid",
+   "ether",
+   "phenol"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "88-74-4": {
+  "categories": [
+   "bb-amines",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aniline",
+  "tags": [
+   "aniline",
+   "nitro"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "89-57-6": {
+  "categories": [
+   "bb-amines",
+   "aromatic-compounds",
+   "carboxylic-acids"
+  ],
+  "chemical_class": "Aromatic carboxylic acid",
+  "tags": [
+   "aniline",
+   "carboxylic acid",
+   "phenol"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "89-98-5": {
+  "categories": [
+   "carbonyl-compounds",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aldehyde",
+  "tags": [
+   "aldehyde",
+   "chlorinated"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "90-02-8": {
+  "categories": [
+   "carbonyl-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aldehyde",
+  "tags": [
+   "aldehyde",
+   "phenol"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "90-15-3": {
+  "categories": [
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic phenol",
+  "tags": [
+   "phenol"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "91-00-9": {
+  "categories": [
+   "bb-amines",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic amine",
+  "tags": [
+   "primary amine"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "91-56-5": {
+  "categories": [
+   "heterocyclic-compounds",
+   "carbonyl-compounds",
+   "carboxylic-acid-derivatives"
+  ],
+  "chemical_class": "Heterocyclic amide",
+  "tags": [
+   "amide",
+   "ketone"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "917-54-4": {
+  "categories": [
+   "organometallic-reagents"
+  ],
+  "chemical_class": "Aliphatic compound",
+  "tags": [
+   "organolithium",
+   "air sensitive"
+  ],
+  "synonyms": [
+   "MeLi"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "917-92-0": {
+  "categories": [
+   "alkynes"
+  ],
+  "chemical_class": "Aliphatic alkyne",
+  "tags": [
+   "terminal alkyne"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "92-54-6": {
+  "categories": [
+   "heterocyclic-compounds",
+   "bb-amines"
+  ],
+  "chemical_class": "Heterocyclic amine",
+  "tags": [
+   "secondary amine"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "920-66-1": {
+  "categories": [
+   "polar-protic-solvents",
+   "halogenated-solvents"
+  ],
+  "chemical_class": "Aliphatic alcohol",
+  "tags": [
+   "solvent",
+   "fluorinated",
+   "alcohol",
+   "trifluoromethyl"
+  ],
+  "synonyms": [
+   "HFIP",
+   "Hexafluoroisopropanol"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "927-80-0": {
+  "categories": [
+   "alkynes"
+  ],
+  "chemical_class": "Aliphatic alkyne",
+  "tags": [
+   "ether",
+   "terminal alkyne"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "928-51-8": {
+  "categories": [
+   "halogenated-compounds"
+  ],
+  "chemical_class": "Aliphatic alcohol",
+  "tags": [
+   "alcohol",
+   "chlorinated"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "928-90-5": {
+  "categories": [
+   "alkynes"
+  ],
+  "chemical_class": "Aliphatic alcohol",
+  "tags": [
+   "alcohol",
+   "terminal alkyne"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "93-02-7": {
+  "categories": [
+   "carbonyl-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aldehyde",
+  "tags": [
+   "aldehyde",
+   "ether"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "93-91-4": {
+  "categories": [
+   "carbonyl-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic ketone",
+  "tags": [
+   "ketone"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "930-51-8": {
+  "categories": [
+   "alkynes"
+  ],
+  "chemical_class": "Alicyclic alkyne",
+  "tags": [
+   "terminal alkyne"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "931-48-6": {
+  "categories": [
+   "alkynes"
+  ],
+  "chemical_class": "Alicyclic alkyne",
+  "tags": [
+   "terminal alkyne"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "931-49-7": {
+  "categories": [
+   "alkynes"
+  ],
+  "chemical_class": "Alicyclic alkyne",
+  "tags": [
+   "terminal alkyne"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "934-32-7": {
+  "categories": [
+   "heterocyclic-compounds",
+   "bb-amines"
+  ],
+  "chemical_class": "Heteroaromatic aniline",
+  "tags": [
+   "aniline",
+   "heteroaromatic"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "937-14-4": {
+  "categories": [
+   "oxidizing-agents"
+  ],
+  "chemical_class": "Aromatic aryl halide",
+  "tags": [
+   "oxidant",
+   "peracid",
+   "chlorinated"
+  ],
+  "synonyms": [
+   "mCPBA",
+   "m-CPBA",
+   "meta-Chloroperbenzoic acid"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "939-99-1": {
+  "categories": [
+   "halogenated-compounds",
+   "aromatic-compounds",
+   "alkylating-agents"
+  ],
+  "chemical_class": "Aromatic benzylic halide",
+  "tags": [
+   "benzylic halide",
+   "chlorinated",
+   "fluorinated",
+   "trifluoromethyl"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "94-36-0": {
+  "categories": [
+   "oxidizing-agents"
+  ],
+  "chemical_class": "Aromatic compound",
+  "tags": [
+   "radical initiator",
+   "peroxide"
+  ],
+  "synonyms": [
+   "BPO",
+   "Dibenzoyl peroxide"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "94-99-5": {
+  "categories": [
+   "halogenated-compounds",
+   "aromatic-compounds",
+   "alkylating-agents"
+  ],
+  "chemical_class": "Aromatic benzylic halide",
+  "tags": [
+   "benzylic halide",
+   "chlorinated"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "94790-37-1": {
+  "categories": [
+   "amide-coupling-reagents"
+  ],
+  "chemical_class": "Heteroaromatic compound",
+  "tags": [
+   "uronium salt",
+   "heteroaromatic"
+  ],
+  "synonyms": [
+   "HBTU"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "95-54-5": {
+  "categories": [
+   "bb-amines",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aniline",
+  "tags": [
+   "aniline"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "95-55-6": {
+  "categories": [
+   "bb-amines",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aniline",
+  "tags": [
+   "aniline",
+   "phenol"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "95-68-1": {
+  "categories": [
+   "bb-amines",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aniline",
+  "tags": [
+   "aniline"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "95-76-1": {
+  "categories": [
+   "bb-amines",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aniline",
+  "tags": [
+   "aniline",
+   "chlorinated"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "95-83-0": {
+  "categories": [
+   "bb-amines",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aniline",
+  "tags": [
+   "aniline",
+   "chlorinated"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "95-84-1": {
+  "categories": [
+   "bb-amines",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aniline",
+  "tags": [
+   "aniline",
+   "phenol"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "95-85-2": {
+  "categories": [
+   "bb-amines",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aniline",
+  "tags": [
+   "aniline",
+   "chlorinated",
+   "phenol"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "95-92-1": {
+  "categories": [
+   "carboxylic-acid-derivatives"
+  ],
+  "chemical_class": "Aliphatic ester",
+  "tags": [
+   "ester"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "96-50-4": {
+  "categories": [
+   "heterocyclic-compounds",
+   "bb-amines"
+  ],
+  "chemical_class": "Heteroaromatic aniline",
+  "tags": [
+   "aniline",
+   "heteroaromatic"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "96-97-9": {
+  "categories": [
+   "aromatic-compounds",
+   "carboxylic-acids"
+  ],
+  "chemical_class": "Aromatic carboxylic acid",
+  "tags": [
+   "carboxylic acid",
+   "nitro",
+   "phenol"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "97-00-7": {
+  "categories": [
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aryl halide",
+  "tags": [
+   "chlorinated",
+   "nitro"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "97-51-8": {
+  "categories": [
+   "carbonyl-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aldehyde",
+  "tags": [
+   "aldehyde",
+   "nitro",
+   "phenol"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "97-65-4": {
+  "categories": [
+   "carboxylic-acids"
+  ],
+  "chemical_class": "Aliphatic carboxylic acid",
+  "tags": [
+   "carboxylic acid"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "98-01-1": {
+  "categories": [
+   "heterocyclic-compounds",
+   "carbonyl-compounds"
+  ],
+  "chemical_class": "Heteroaromatic aldehyde",
+  "tags": [
+   "aldehyde",
+   "heteroaromatic"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "98-08-8": {
+  "categories": [
+   "halogenated-solvents",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic compound",
+  "tags": [
+   "solvent",
+   "fluorinated",
+   "trifluoromethyl"
+  ],
+  "synonyms": [
+   "PhCF3",
+   "BTF",
+   "Trifluorotoluene"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "98-18-0": {
+  "categories": [
+   "bb-amines",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic sulfonamide",
+  "tags": [
+   "aniline",
+   "sulfonamide"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "98-54-4": {
+  "categories": [
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic phenol",
+  "tags": [
+   "phenol"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "98-59-9": {
+  "categories": [
+   "halogenated-compounds",
+   "aromatic-compounds",
+   "sulfonylating-agents"
+  ],
+  "chemical_class": "Aromatic sulfonyl chloride",
+  "tags": [
+   "chlorinated",
+   "sulfonyl chloride"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "98-64-6": {
+  "categories": [
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic sulfonamide",
+  "tags": [
+   "chlorinated",
+   "sulfonamide"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "98-74-8": {
+  "categories": [
+   "halogenated-compounds",
+   "aromatic-compounds",
+   "sulfonylating-agents"
+  ],
+  "chemical_class": "Aromatic sulfonyl chloride",
+  "tags": [
+   "chlorinated",
+   "nitro",
+   "sulfonyl chloride"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "98-80-6": {
+  "categories": [
+   "cross-coupling-reagents",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic boronic acid/ester",
+  "tags": [
+   "boronic acid",
+   "Suzuki"
+  ],
+  "synonyms": [
+   "PhB(OH)2",
+   "Phenylboronic acid"
+  ],
+  "source": "curated",
+  "mixture": false
+ },
+ "98-98-6": {
+  "categories": [
+   "heterocyclic-compounds",
+   "carboxylic-acids"
+  ],
+  "chemical_class": "Heteroaromatic carboxylic acid",
+  "tags": [
+   "carboxylic acid",
+   "heteroaromatic"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "99-02-5": {
+  "categories": [
+   "carbonyl-compounds",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic ketone",
+  "tags": [
+   "chlorinated",
+   "ketone"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "99-03-6": {
+  "categories": [
+   "carbonyl-compounds",
+   "bb-amines",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic ketone",
+  "tags": [
+   "aniline",
+   "ketone"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "99-09-2": {
+  "categories": [
+   "bb-amines",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aniline",
+  "tags": [
+   "aniline",
+   "nitro"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "99-54-7": {
+  "categories": [
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aryl halide",
+  "tags": [
+   "chlorinated",
+   "nitro"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "99-57-0": {
+  "categories": [
+   "bb-amines",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aniline",
+  "tags": [
+   "aniline",
+   "nitro",
+   "phenol"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "99-61-6": {
+  "categories": [
+   "carbonyl-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic aldehyde",
+  "tags": [
+   "aldehyde",
+   "nitro"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "99-73-0": {
+  "categories": [
+   "carbonyl-compounds",
+   "halogenated-compounds",
+   "aromatic-compounds",
+   "alkylating-agents"
+  ],
+  "chemical_class": "Aromatic ketone",
+  "tags": [
+   "brominated",
+   "ketone"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "99-90-1": {
+  "categories": [
+   "carbonyl-compounds",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic ketone",
+  "tags": [
+   "brominated",
+   "ketone"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "99-91-2": {
+  "categories": [
+   "carbonyl-compounds",
+   "halogenated-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic ketone",
+  "tags": [
+   "chlorinated",
+   "ketone"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "99-92-3": {
+  "categories": [
+   "carbonyl-compounds",
+   "bb-amines",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic ketone",
+  "tags": [
+   "aniline",
+   "ketone"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "99-93-4": {
+  "categories": [
+   "carbonyl-compounds",
+   "aromatic-compounds"
+  ],
+  "chemical_class": "Aromatic ketone",
+  "tags": [
+   "ketone",
+   "phenol"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "99-94-5": {
+  "categories": [
+   "aromatic-compounds",
+   "carboxylic-acids"
+  ],
+  "chemical_class": "Aromatic carboxylic acid",
+  "tags": [
+   "carboxylic acid"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ },
+ "99189-60-3": {
+  "categories": [
+   "carboxylic-acid-derivatives",
+   "carboxylic-acids"
+  ],
+  "chemical_class": "Alicyclic carboxylic acid",
+  "tags": [
+   "amide",
+   "carboxylic acid"
+  ],
+  "synonyms": [],
+  "source": "structure",
+  "mixture": false
+ }
+}

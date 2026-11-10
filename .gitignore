@@ -1,0 +1,7 @@
+node_modules
+.data
+.venv
+dist
+.scratch
+*.log
+.DS_Store
