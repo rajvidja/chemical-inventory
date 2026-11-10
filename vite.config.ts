@@ -1,3 +1,4 @@
+import { execFileSync } from "node:child_process";
 import path from "node:path";
 import tailwindcss from "@tailwindcss/vite";
 import react from "@vitejs/plugin-react";
@@ -23,9 +24,26 @@ function browserServer(): Plugin {
   };
 }
 
-export default defineConfig(({ mode }) => ({
+/** Writes dist/chemstock-seed.tar.gz from the default spreadsheet, so a plain `vite build` ships the data. */
+function writeSeed(): Plugin {
+  return {
+    name: "chemstock-seed",
+    apply: "build",
+    closeBundle() {
+      execFileSync(path.resolve(import.meta.dirname, "node_modules/.bin/tsx"), ["scripts/build_static_seed.ts"], {
+        stdio: "inherit",
+      });
+    },
+  };
+}
+
+export default defineConfig(({ command, mode }) => {
+  // Hosts run `vite build` with no flags. That build must contain the data; only --mode server is the Node version.
+  const browser = command === "build" && mode !== "server";
+  return {
   plugins: [
-    mode === "static" && browserServer(),
+    browser && browserServer(),
+    browser && writeSeed(),
     react(),
     tailwindcss(),
     VitePWA({
@@ -48,8 +66,8 @@ export default defineConfig(({ mode }) => ({
       workbox: {
         navigateFallbackDenylist: [/^\/api/],
         // The static build bundles the database engine, so it must be cached to work offline.
-        maximumFileSizeToCacheInBytes: mode === "static" ? 40 * 1024 * 1024 : undefined,
-        globPatterns: mode === "static" ? ["**/*.{js,css,html,svg,png,woff2,wasm,data,gz}"] : undefined,
+        maximumFileSizeToCacheInBytes: browser ? 40 * 1024 * 1024 : undefined,
+        globPatterns: browser ? ["**/*.{js,css,html,svg,png,woff2,wasm,data,gz}"] : undefined,
         runtimeCaching: [
           {
             // Read-only API calls fall back to the last response when offline.
@@ -77,4 +95,5 @@ export default defineConfig(({ mode }) => ({
   },
   optimizeDeps: { exclude: ["@electric-sql/pglite"] },
   build: { chunkSizeWarningLimit: 900, target: "es2022" },
-}));
+};
+});

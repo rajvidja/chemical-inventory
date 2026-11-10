@@ -8,7 +8,8 @@ import { ConfirmProvider } from "@/components/ui/overlays";
 import { ChemActionsProvider } from "@/components/chem/ChemActions";
 import { App } from "./App";
 
-if (import.meta.env.MODE === "static") (await import("./static/install")).installStaticApi();
+// Every production build except the Node server build answers /api inside the browser.
+if (import.meta.env.PROD && import.meta.env.MODE !== "server") (await import("./static/install")).installStaticApi();
 
 const queryClient = new QueryClient({
   defaultOptions: {

@@ -3,7 +3,7 @@ services:
   - type: web
     name: chemical-inventory
     runtime: static
-    buildCommand: npm install --include=dev && npm run build:static
+    buildCommand: npm install --include=dev && npm run build
     staticPublishPath: ./dist
     envVars:
       - key: NODE_VERSION

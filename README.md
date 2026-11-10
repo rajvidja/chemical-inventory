@@ -36,7 +36,7 @@ Other scripts:
 
 ## Static website
 
-`npm run build:static` builds a version that needs no server: the same API routes and PostgreSQL schema run inside the browser (PGlite in IndexedDB). The build also writes `dist/chemstock-seed.tar.gz`, a ready-made database created from `data/Chemical Inventory - Merged_updated.xlsx`, which each browser loads on its first visit. Host `dist/` on any static host with a fallback of all paths to `index.html`.
+A plain `npm run build` (what Vercel and Render run) needs no server: the same API routes and PostgreSQL schema run inside the browser (PGlite in IndexedDB), and the build writes `dist/chemstock-seed.tar.gz`, a ready-made database from `data/Chemical Inventory - Merged_updated.xlsx`. Each browser loads it on its first visit. `vercel.json` sends every path to `index.html`. The Node server build is `npm run build:server`.
 
 - Edits are saved in that browser only; other people and devices start from the spreadsheet. Use **Export** to keep a copy.
 - Clearing the site's data in the browser resets it to the spreadsheet.
@@ -44,7 +44,7 @@ Other scripts:
 
 ## Deploy on Render
 
-`render.yaml` sets up the **static website** above: **New → Blueprint**, pick this repository, apply. Manual setup: **New → Static Site**, build command `npm install --include=dev && npm run build:static`, publish directory `dist`, and a rewrite rule `/*` → `/index.html`.
+`render.yaml` sets up the **static website** above: **New → Blueprint**, pick this repository, apply. Manual setup: **New → Static Site**, build command `npm install --include=dev && npm run build`, publish directory `dist`, and a rewrite rule `/*` → `/index.html`. On Vercel the defaults work: it runs `vite build` and `vercel.json` supplies the rewrite.
 
 To run the shared server version instead (one database for everyone), create a **Web Service** with build command `npm install --include=dev && npm run build` and start command `npm start`. It needs a persistent disk with `CHEMSTOCK_DATA_DIR` pointing at it, or the database resets on every deploy.
 
