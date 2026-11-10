@@ -34,6 +34,10 @@ Other scripts:
 - Formula, molecular weight and IUPAC name come from PubChem only when the CID's synonyms contain the CAS number *and* the name matches. Hazard data is never inferred and is only shown when entered with a source.
 - Classification uses a curated CAS → reagent-role table plus RDKit functional-group detection (`scripts/classify.py`). Anything uncertain is filed under **Unclassified**.
 
+## Deploy on Render
+
+`render.yaml` describes a Node **Web Service** (not a Static Site, which cannot run the API). In Render choose **New → Blueprint**, pick this repository and apply. Manual setup uses build command `npm install --include=dev && npm run build` and start command `npm start`; the server reads `PORT` and serves `dist/` itself. On first start the database is built from `data/Chemical Inventory - Merged_updated.xlsx`. Without a persistent disk (free plan) the database resets on every deploy or restart; with a disk, set `CHEMSTOCK_DATA_DIR` to a folder on it (see the comments in `render.yaml`).
+
 ## Stack
 
 React 19, Vite, Tailwind v4, TanStack Query, Hono, PGlite (Postgres + `pg_trgm` + full-text search), installable PWA. The schema in `server/schema.ts` is plain PostgreSQL, so it can be moved to a hosted Postgres (e.g. Supabase) by swapping the PGlite connection in `server/db.ts`.
