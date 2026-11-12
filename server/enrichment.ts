@@ -8,6 +8,10 @@ export interface PubchemRecord {
   mw: number | null;
   iupac: string | null;
   smiles: string | null;
+  /** g/cm³ from PubChem experimental data. Null when PubChem reports none. */
+  density?: number | null;
+  /** Phase at 25 °C, from melting and boiling points. */
+  phase?: "solid" | "liquid" | "gas" | null;
   cas_confirmed: boolean;
   synonyms: string[];
   match_names?: string[];
@@ -96,5 +100,6 @@ export function enrichmentFor(name: string, cas: string | null, casValid: boolea
   if (!nameMatchesRecord(name, candidates)) {
     return { identity: null, identityRejected: { title: record.title, cid: record.cid }, classification: null };
   }
-  return { identity: cls?.mixture ? { ...record, formula: null, mw: null, smiles: null } : record, identityRejected: null, classification: cls };
+  const identity = cls?.mixture ? { ...record, formula: null, mw: null, smiles: null, density: null, phase: null } : record;
+  return { identity, identityRejected: null, classification: cls };
 }

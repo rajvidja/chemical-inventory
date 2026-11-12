@@ -108,7 +108,7 @@ Mobile header: logo, a bell (orange dot when anything is low or out) and a black
    - Mark as unavailable
    - Delete container
 3. **Storage information** — locations; locations only mentioned in an unpaired source row are shown dashed ("listed in source row").
-4. **Chemical identity** — name, CAS, formula, MW, IUPAC name, identity source, synonyms & abbreviations (add/remove).
+4. **Chemical identity** — name, CAS, formula, MW, density (g/cm³), phase at 25 °C (solid, liquid or gas), IUPAC name, identity source, synonyms & abbreviations (add/remove). Density and phase come from PubChem's measured melting point, boiling point and density, and only when the CAS number was confirmed. "Not reported" means PubChem has no measurement.
 5. **Classification and tags** — categories, chemical class, functional tags, verified hazard classification (only shown when entered with a source).
 6. **Additional notes**
 7. **Source & history** — original spreadsheet values and change log.

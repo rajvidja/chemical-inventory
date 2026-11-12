@@ -95,8 +95,8 @@ export async function commitRows(
       const created = await one<{ id: number }>(
         db,
         `INSERT INTO chemicals (chemical_name, normalized_name, compact_name, cas_number, cas_digits, cas_valid,
-            chemical_formula, molecular_weight, iupac_name, pubchem_cid, identity_source, chemical_class, classification_source)
-         VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13) RETURNING id`,
+            chemical_formula, molecular_weight, iupac_name, pubchem_cid, identity_source, density_g_cm3, phase, chemical_class, classification_source)
+         VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13,$14,$15) RETURNING id`,
         [
           row.name,
           names.normalized,
@@ -109,6 +109,8 @@ export async function commitRows(
           id?.iupac ?? null,
           id?.cid ?? null,
           id ? "PubChem (matched by CAS registry number)" : null,
+          id?.density ?? null,
+          id?.phase ?? null,
           enrich.classification?.chemical_class ?? null,
           enrich.classification?.source ?? "unclassified",
         ],

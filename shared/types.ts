@@ -122,6 +122,10 @@ export interface MetaResponse {
 export interface ChemicalDetail extends ChemicalListItem {
   iupacName: string | null;
   molecularWeight: number | null;
+  /** g/cm³. Null when PubChem reports no density. */
+  density: number | null;
+  /** Phase at 25 °C. */
+  phase: "solid" | "liquid" | "gas" | null;
   pubchemCid: number | null;
   identitySource: string | null;
   classificationSource: string;

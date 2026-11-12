@@ -182,6 +182,8 @@ CREATE INDEX IF NOT EXISTS activity_log_time_idx ON activity_log(created_at DESC
 ALTER TABLE stock_containers ADD COLUMN IF NOT EXISTS expiry_date date;
 CREATE INDEX IF NOT EXISTS stock_containers_expiry_idx ON stock_containers(expiry_date) WHERE expiry_date IS NOT NULL;
 ALTER TABLE chemicals ADD COLUMN IF NOT EXISTS alert_priority text CHECK (alert_priority IN ('critical', 'watchlist'));
+ALTER TABLE chemicals ADD COLUMN IF NOT EXISTS density_g_cm3 numeric;
+ALTER TABLE chemicals ADD COLUMN IF NOT EXISTS phase text CHECK (phase IN ('solid', 'liquid', 'gas'));
 
 -- One open order per chemical; received/cancelled rows are kept as history.
 CREATE TABLE IF NOT EXISTS reorders (

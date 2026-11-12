@@ -76,6 +76,8 @@ export async function chemicalDetail(db: Db, id: number): Promise<ChemicalDetail
   const c = await one<{
     iupac_name: string | null;
     molecular_weight: string | null;
+    density_g_cm3: string | null;
+    phase: "solid" | "liquid" | "gas" | null;
     pubchem_cid: number | null;
     identity_source: string | null;
     classification_source: string;
@@ -121,6 +123,8 @@ export async function chemicalDetail(db: Db, id: number): Promise<ChemicalDetail
     ...base,
     iupacName: c!.iupac_name,
     molecularWeight: c!.molecular_weight === null ? null : Number(c!.molecular_weight),
+    density: c!.density_g_cm3 === null ? null : Number(c!.density_g_cm3),
+    phase: c!.phase,
     pubchemCid: c!.pubchem_cid,
     identitySource: c!.identity_source,
     classificationSource: c!.classification_source,

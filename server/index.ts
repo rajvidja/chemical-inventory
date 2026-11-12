@@ -6,6 +6,7 @@ import { Hono } from "hono";
 import { compress } from "hono/compress";
 import { createApi } from "./app";
 import { closeDb, getDb, ROOT } from "./db";
+import { applyPhysicalProperties } from "./physical";
 import { seedIfEmpty } from "./seed";
 
 const PORT = Number(process.env.PORT ?? 8787);
@@ -13,6 +14,7 @@ const isProd = process.env.NODE_ENV === "production";
 
 const db = await getDb();
 await db.transaction((tx) => seedIfEmpty(tx));
+await applyPhysicalProperties(db);
 
 const app = new Hono();
 app.use("*", compress());

@@ -1,5 +1,6 @@
 import { PGlite, type Transaction } from "@electric-sql/pglite";
 import { pg_trgm } from "@electric-sql/pglite/contrib/pg_trgm";
+import { applyPhysicalProperties } from "../../server/physical";
 import { SCHEMA_SQL } from "../../server/schema";
 
 /** Static-build replacement for server/db.ts: the database lives in this browser's IndexedDB. */
@@ -22,6 +23,7 @@ async function open() {
   const loadDataDir = fresh ? await fetch(SEED_URL).then((r) => (r.ok ? r.blob() : Promise.reject(new Error(`Could not load the inventory (${r.status})`)))) : undefined;
   const db = await PGlite.create({ dataDir: DATA_DIR, extensions: { pg_trgm }, loadDataDir });
   await db.exec(SCHEMA_SQL);
+  await applyPhysicalProperties(db);
   localStorage.setItem("chemstock.static-db", "1");
   void navigator.storage?.persist?.();
   return db;

@@ -30,6 +30,7 @@ import { toast } from "sonner";
 import type { ChemicalDetail, ContainerSummary } from "@shared/types";
 import { formatQuantity, STATUS_LABEL } from "@shared/stock";
 import { api, useInventoryMutation } from "@/lib/api";
+import { PHASE_LABEL, formatDensity } from "@shared/physical";
 import { cn, daysUntil, expiryText, formatDate, formatPct, timeAgo } from "@/lib/utils";
 import { Button } from "@/components/ui/button";
 import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuSeparator, DropdownMenuTrigger, useConfirm } from "@/components/ui/overlays";
@@ -282,6 +283,8 @@ export function ChemicalDetailView({ chemical, compact, onClose }: { chemical: C
               )}
               {chemical.formula && <span className="font-mono text-[13px] text-ink-2">{chemical.formula}</span>}
               {chemical.molecularWeight && <span className="text-ink-2 tabular">{chemical.molecularWeight} g/mol</span>}
+              {chemical.density != null && <span className="text-ink-2 tabular">{formatDensity(chemical.density)}</span>}
+              {chemical.phase && <span className="font-semibold text-ink-2">{PHASE_LABEL[chemical.phase]} at 25 °C</span>}
             </div>
           </div>
           <div className="flex items-center gap-1">
@@ -511,6 +514,8 @@ export function ChemicalDetailView({ chemical, compact, onClose }: { chemical: C
               </Row>
               <Row label="Formula" mono>{chemical.formula ?? <span className="font-sans text-muted">Not verified</span>}</Row>
               <Row label="Mol. weight">{chemical.molecularWeight ? `${chemical.molecularWeight} g/mol` : <span className="text-muted">Not verified</span>}</Row>
+              <Row label="Density">{chemical.density != null ? formatDensity(chemical.density) : <span className="text-muted">{chemical.pubchemCid ? "Not reported" : "Not verified"}</span>}</Row>
+              <Row label="Phase at 25 °C">{chemical.phase ? PHASE_LABEL[chemical.phase] : <span className="text-muted">{chemical.pubchemCid ? "Not reported" : "Not verified"}</span>}</Row>
               {chemical.iupacName && <Row label="IUPAC name">{chemical.iupacName}</Row>}
               <Row label="Identity source">
                 {chemical.pubchemCid ? (
